@@ -1,0 +1,20 @@
+# Bitmasking Questions
+
+1. [Bitmask Tricks](#)
+2. [Power of 4](https://leetcode.com/problems/power-of-four/)
+3. [Decode Xored Array](https://leetcode.com/problems/decode-xored-array/)
+4. [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
+5. [Longest Consecutive 1's](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1/)
+6. [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+7. [Single Number - I](https://leetcode.com/problems/single-number/)
+8. [Single Number - III](https://leetcode.com/problems/single-number-iii/)
+9. [Single Number - II](https://leetcode.com/problems/single-number-ii/)
+10. [Find all subsequences of string](#)
+11. [Find Subsets](https://leetcode.com/problems/subsets/)
+12. [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)
+13. [Travelling Salesman](#)
+14. [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/)
+15. [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
+16. [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)
+17. [Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/)
+18. [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) [TO DO]
