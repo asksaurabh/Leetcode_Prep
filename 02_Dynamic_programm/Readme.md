@@ -29,7 +29,9 @@
 21. [Partition Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](https://leetcode.com/problems/partition-equal-subset-sum/discuss/1741625/C%2B%2B-or-All-possible-solutions)
 22. [Partition a set into two subsets such that the difference of subset sums is minimum.](https://www.codingninjas.com/codestudio/problems/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum_842494) | [Solution](#)
 23. [Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/) | [Solution](https://leetcode.com/problems/closest-subsequence-sum/discuss/1742311/C%2B%2B-or-All-possible-solutions)
-24. 
+24. [Perfect Sum Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1#) [Handle Edge case when 0 is also an element in array]
+25. [Print perfectSum](https://www.geeksforgeeks.org/perfect-sum-problem-print-subsets-given-sum/) [Think about what happens if sum is -ve]
+
 
 
 ## To DO JUST AFTER

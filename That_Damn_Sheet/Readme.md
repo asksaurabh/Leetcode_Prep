@@ -1,0 +1,28 @@
+# Coding Problems Interview Prep
+
+1. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](https://leetcode.com/problems/set-matrix-zeroes/discuss/1755764/C%2B%2B-or-All-Possible-Solutions)
+2. [Pascal Triangle and Variations](https://leetcode.com/problems/pascals-triangle/) | [Solution](https://leetcode.com/problems/pascals-triangle/discuss/1756054/C%2B%2B-or-All-possible-solutions)
+3. [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution](https://leetcode.com/problems/next-permutation/discuss/1756230/C%2B%2B-or-All-possible-Solutions)
+4. [Maximum Sum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://leetcode.com/problems/maximum-subarray/discuss/1757161/C%2B%2B-or-All-possible-solutions)
+5. [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](https://leetcode.com/problems/sort-colors/discuss/1757466/C%2B%2B-or-All-possible-solutions)
+6. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/1757585/C%2B%2B-or-All-possible-Solutions)
+7. [Rotate Matrix](https://leetcode.com/problems/rotate-image/) | [Solution](https://leetcode.com/problems/rotate-image/discuss/1757785/C%2B%2B-or-All-possible-Solutions)
+8. [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Solution](https://leetcode.com/problems/merge-intervals/discuss/1758336/C%2B%2B-or-All-possible-Solutions)
+9. [Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://leetcode.com/problems/merge-sorted-array/discuss/1759690/C%2B%2B-or-All-neat-Solutions)
+10. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://leetcode.com/problems/find-the-duplicate-number/discuss/1759973/C%2B%2B-or-All-Neat-Solutions)
+11. [Find missing number](https://leetcode.com/problems/missing-number/) | [Solution](https://leetcode.com/problems/missing-number/discuss/1760645/C%2B%2B-or-All-Neat-Solutions)
+12. [Missing and Repeating Number](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/#) | [Solution](#)
+13. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/1761280/C%2B%2B-or-All-Neat-Solutions)
+14. [Inversion Count](https://www.codingninjas.com/codestudio/problems/count-inversions_615?leftPanelTab=0) | [Solution](#)
+15. [Search in 2-D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](https://leetcode.com/problems/search-a-2d-matrix/discuss/1763472/C%2B%2B-or-All-possible-Solutions)
+16. [Search in 2-D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](https://leetcode.com/problems/search-a-2d-matrix-ii/discuss/1763485/C%2B%2B-or-All-possible-Soultions)
+17. [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Solution](https://leetcode.com/problems/powx-n/discuss/1763747/C%2B%2B-or-All-Neat-Solutions)
+18. [Majority Element](https://leetcode.com/problems/majority-element/) | [Solution](https://leetcode.com/problems/majority-element/discuss/1763917/C%2B%2B-or-All-Neat-Solutions)
+19. [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Solution](https://leetcode.com/problems/majority-element-ii/discuss/1764537/C%2B%2B-or-All-Neat-Solutions)
+20. [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | [Solution](https://leetcode.com/problems/reverse-pairs/discuss/1764689/C%2B%2B-or-All-Neat-Solutions)
+21. [Unique paths](https://leetcode.com/problems/unique-paths/) | [Solution](https://leetcode.com/problems/unique-paths/discuss/1733841/C%2B%2B-or-All-possible-solutions)
+22. [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://leetcode.com/problems/two-sum/discuss/1765137/C%2B%2B-or-All-possible-Solutions)
+23. [3Sum](https://leetcode.com/problems/3sum/) | [Solution](https://leetcode.com/problems/3sum/discuss/1765976/C%2B%2B-or-Neat-Solution)
+24. [4Sum](https://leetcode.com/problems/4sum/) | [Solution](https://leetcode.com/problems/4sum/discuss/1766087/C%2B%2B-or-Neat-Solution)
+25. 
+
