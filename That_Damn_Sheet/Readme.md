@@ -24,5 +24,6 @@
 22. [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://leetcode.com/problems/two-sum/discuss/1765137/C%2B%2B-or-All-possible-Solutions)
 23. [3Sum](https://leetcode.com/problems/3sum/) | [Solution](https://leetcode.com/problems/3sum/discuss/1765976/C%2B%2B-or-Neat-Solution)
 24. [4Sum](https://leetcode.com/problems/4sum/) | [Solution](https://leetcode.com/problems/4sum/discuss/1766087/C%2B%2B-or-Neat-Solution)
-25. 
-
+25. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](https://leetcode.com/problems/longest-consecutive-sequence/discuss/1767273/C%2B%2B-or-Some-Neat-Solutions)
+26. [Count Subarrays with given XOR](https://www.interviewbit.com/problems/subarray-with-given-xor/) | [Solution](#)
+27. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
