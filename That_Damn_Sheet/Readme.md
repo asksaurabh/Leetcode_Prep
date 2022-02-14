@@ -26,4 +26,7 @@
 24. [4Sum](https://leetcode.com/problems/4sum/) | [Solution](https://leetcode.com/problems/4sum/discuss/1766087/C%2B%2B-or-Neat-Solution)
 25. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](https://leetcode.com/problems/longest-consecutive-sequence/discuss/1767273/C%2B%2B-or-Some-Neat-Solutions)
 26. [Count Subarrays with given XOR](https://www.interviewbit.com/problems/subarray-with-given-xor/) | [Solution](#)
-27. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+27. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](https://leetcode.com/problems/subarray-sum-equals-k/discuss/1769617/C%2B%2B-or-All-Neat-Solutions)
+28. [Largest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1#) | [Solution](#)
+29. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/1770062/C%2B%2B-or-Neat-Solutions)
+30. 
