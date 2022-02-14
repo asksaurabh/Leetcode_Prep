@@ -33,6 +33,11 @@
 25. [Perfect Sum Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1#) [Handle Edge case when 0 is also an element in array] | [Solution](#)
 26. [Print perfectSum](https://www.geeksforgeeks.org/perfect-sum-problem-print-subsets-given-sum/) [Think about what happens if sum is -ve]
 27. [Partitions With Given Difference](https://www.codingninjas.com/codestudio/problems/partitions-with-given-difference_3751628) | [Solution](#)
+28. [0 1 Knapsack](https://www.codingninjas.com/codestudio/problems/0-1-knapsack_920542) | [Solution](#)
+29. [Coin Change](https://leetcode.com/problems/coin-change/) | [Solution](https://leetcode.com/problems/coin-change/discuss/1770586/C%2B%2B-or-All-Possible-Soultions)
+30. [Target Sum](https://leetcode.com/problems/target-sum/) | [Solution](https://leetcode.com/problems/target-sum/discuss/1770648/C%2B%2B-or-All-Possible-Solutions)
+31. [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Solution](https://leetcode.com/problems/coin-change-2/discuss/1770737/C%2B%2B-or-All-Possible-Solutions)
+32. 
 
 
 ## To DO JUST AFTER
