@@ -37,4 +37,10 @@
 32. [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#) | [Solution](#)
 33. [Colorful Array](https://www.spoj.com/problems/CLFLARR/) [For optimization of 32.]
 34. [Maximum Profit in Job Scheduling(This is DP)](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Solution](https://leetcode.com/problems/maximum-profit-in-job-scheduling/discuss/1772535/C%2B%2B-or-Neat-Solution)
-35. 
+35. [Fractional Knapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1#) | [Solution](#)
+36. [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Solution](https://leetcode.com/problems/maximum-units-on-a-truck/discuss/1772899/C%2B%2B-or-All-Possible-Solutions)
+37. [Indian Coin Change](https://www.codingninjas.com/codestudio/problems/975277) | [Solution](#)
+38. [READ reasoning for Indian Coin change](https://stackoverflow.com/questions/13557979/why-does-the-greedy-coin-change-algorithm-not-work-for-some-coin-sets?rq=1)
+39. [Activity Selection](https://www.codingninjas.com/codestudio/problems/1062712) | [Solution](#)
+
+## Binary Trees
