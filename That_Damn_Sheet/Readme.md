@@ -1,5 +1,6 @@
 # Coding Problems Interview Prep
 
+## Arrays
 1. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](https://leetcode.com/problems/set-matrix-zeroes/discuss/1755764/C%2B%2B-or-All-Possible-Solutions)
 2. [Pascal Triangle and Variations](https://leetcode.com/problems/pascals-triangle/) | [Solution](https://leetcode.com/problems/pascals-triangle/discuss/1756054/C%2B%2B-or-All-possible-solutions)
 3. [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution](https://leetcode.com/problems/next-permutation/discuss/1756230/C%2B%2B-or-All-possible-Solutions)
@@ -29,4 +30,11 @@
 27. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](https://leetcode.com/problems/subarray-sum-equals-k/discuss/1769617/C%2B%2B-or-All-Neat-Solutions)
 28. [Largest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1#) | [Solution](#)
 29. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/1770062/C%2B%2B-or-Neat-Solutions)
-30. 
+
+## Greedy Algo
+30. [N meetings in One Room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#) | [Solution](#)
+31. [Minimum Platform (N meetings in min no of rooms)](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#) | [Solution](#)
+32. [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#) | [Solution](#)
+33. [Colorful Array](https://www.spoj.com/problems/CLFLARR/) [For optimization of 32.]
+34. [Maximum Profit in Job Scheduling(This is DP)](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Solution](https://leetcode.com/problems/maximum-profit-in-job-scheduling/discuss/1772535/C%2B%2B-or-Neat-Solution)
+35. 
