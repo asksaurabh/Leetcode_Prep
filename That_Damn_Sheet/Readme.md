@@ -46,3 +46,9 @@
 ## Recursion AND BackTracking
 
 [CLICK ME](https://github.com/asksaurabh/Leetcode_Prep/tree/main/03_Recursion_And_BackTracking)
+
+## Dynamic Programming
+
+[CLICK ME](https://github.com/asksaurabh/Leetcode_Prep/tree/main/02_Dynamic_programm)
+
+## Binary Search
