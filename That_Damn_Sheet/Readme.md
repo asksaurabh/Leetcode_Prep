@@ -67,8 +67,12 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 11. [Floor of number in sorted array](https://www.codingninjas.com/codestudio/problems/find-floor-value_920447) | [Solution](#)
 12. [Ceil of number in sorted array](https://www.codingninjas.com/codestudio/problems/ceiling-in-a-sorted-array_1825401) | [Solution](#)
 13. [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](https://leetcode.com/problems/search-insert-position/discuss/1785835/C%2B%2B-or-Easy-but-observation-useful-in-other-questions)
-14. 
+14. [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Solution](https://leetcode.com/problems/find-smallest-letter-greater-than-target/discuss/1786118/C%2B%2B-or-Easy-but-can-be-tricky-sometimes)
+15. [Minimum Absolute difference in Sorted Array](https://www.callicoder.com/minimum-difference-element-in-sorted-array/) | [Solution](#)
+16. [Minimum difference pair](https://practice.geeksforgeeks.org/problems/minimum-difference-pair5444/1/#) | (Easy, Just for clarity)
+
 
 
 ## LATER
 1. [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
+2. [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
