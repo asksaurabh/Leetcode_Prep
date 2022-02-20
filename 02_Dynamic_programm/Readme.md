@@ -1,6 +1,6 @@
 # Dynamic Programming
 
-## 1-D DP
+## 1-D DP(1)
 1. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 2. [N-K Ladder Problem](https://www.geeksforgeeks.org/number-of-ways-to-reach-nth-floor-by-taking-at-most-k-leaps/) | [Solution](#)
 3. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
@@ -11,7 +11,7 @@
 8. [Max Sum without Adjacents](https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1/)
 9. [House Robber 2](https://leetcode.com/problems/house-robber-ii/)
 
-## DP On Grids
+## DP On Grids(2)
 1. [Ninja Training](https://www.codingninjas.com/codestudio/problems/ninja-s-training_3621003)
 2. [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)
 3. [Unique Paths](https://leetcode.com/problems/unique-paths/)
@@ -23,7 +23,7 @@
 9. [Min Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [Solution](https://leetcode.com/problems/minimum-falling-path-sum/discuss/1736061/C%2B%2B-or-All-possible-Solution)
 10. [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | [Solution](https://leetcode.com/problems/cherry-pickup-ii/discuss/1736325/C%2B%2B-or-All-possible-Solutions)
 
-## DP on Subsequences/Subsets & Target
+## DP on Subsequences/Subsets & Target(3)
 
 1. [Subset Sum Equal to K](https://www.codingninjas.com/codestudio/problems/subset-sum-equal-to-k_1550954) | [Solution](#)
 2. [Partition Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](https://leetcode.com/problems/partition-equal-subset-sum/discuss/1741625/C%2B%2B-or-All-possible-solutions)
@@ -38,7 +38,8 @@
 11. [Target Sum](https://leetcode.com/problems/target-sum/) | [Solution](https://leetcode.com/problems/target-sum/discuss/1770648/C%2B%2B-or-All-Possible-Solutions)
 12. [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Solution](https://leetcode.com/problems/coin-change-2/discuss/1770737/C%2B%2B-or-All-Possible-Solutions)
 13. [Unbounded KnapSack](https://www.codingninjas.com/codestudio/problems/unbounded-knapsack_1215029) | [Solution](#)
-14. 
+14. [Rod Cutting](https://www.codingninjas.com/codestudio/problems/rod-cutting-problem_800284) | [Solution](#)
+15. [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
 
 
 ## To DO JUST AFTER

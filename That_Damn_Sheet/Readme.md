@@ -1,6 +1,6 @@
 # Coding Problems Interview Prep
 
-## Arrays
+## Arrays(1)
 1. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](https://leetcode.com/problems/set-matrix-zeroes/discuss/1755764/C%2B%2B-or-All-Possible-Solutions)
 2. [Pascal Triangle and Variations](https://leetcode.com/problems/pascals-triangle/) | [Solution](https://leetcode.com/problems/pascals-triangle/discuss/1756054/C%2B%2B-or-All-possible-solutions)
 3. [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution](https://leetcode.com/problems/next-permutation/discuss/1756230/C%2B%2B-or-All-possible-Solutions)
@@ -31,24 +31,44 @@
 28. [Largest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1#) | [Solution](#)
 29. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/1770062/C%2B%2B-or-Neat-Solutions)
 
-## Greedy Algo
-30. [N meetings in One Room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#) | [Solution](#)
-31. [Minimum Platform (N meetings in min no of rooms)](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#) | [Solution](#)
-32. [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#) | [Solution](#)
-33. [Colorful Array](https://www.spoj.com/problems/CLFLARR/) [For optimization of 32.]
-34. [Maximum Profit in Job Scheduling(This is DP)](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Solution](https://leetcode.com/problems/maximum-profit-in-job-scheduling/discuss/1772535/C%2B%2B-or-Neat-Solution)
-35. [Fractional Knapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1#) | [Solution](#)
-36. [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Solution](https://leetcode.com/problems/maximum-units-on-a-truck/discuss/1772899/C%2B%2B-or-All-Possible-Solutions)
-37. [Indian Coin Change](https://www.codingninjas.com/codestudio/problems/975277) | [Solution](#)
-38. [READ reasoning for Indian Coin change](https://stackoverflow.com/questions/13557979/why-does-the-greedy-coin-change-algorithm-not-work-for-some-coin-sets?rq=1)
-39. [Activity Selection](https://www.codingninjas.com/codestudio/problems/1062712) | [Solution](#)
+## Greedy Algo(2)
+1. [N meetings in One Room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#) | [Solution](#)
+2. [Minimum Platform (N meetings in min no of rooms)](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#) | [Solution](#)
+3. [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#) | [Solution](#)
+4. [Colorful Array](https://www.spoj.com/problems/CLFLARR/) [For optimization of 32.]
+5. [Maximum Profit in Job Scheduling(This is DP)](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Solution](https://leetcode.com/problems/maximum-profit-in-job-scheduling/discuss/1772535/C%2B%2B-or-Neat-Solution)
+6. [Fractional Knapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1#) | [Solution](#)
+7. [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Solution](https://leetcode.com/problems/maximum-units-on-a-truck/discuss/1772899/C%2B%2B-or-All-Possible-Solutions)
+8. [Indian Coin Change](https://www.codingninjas.com/codestudio/problems/975277) | [Solution](#)
+9. [READ reasoning for Indian Coin change](https://stackoverflow.com/questions/13557979/why-does-the-greedy-coin-change-algorithm-not-work-for-some-coin-sets?rq=1)
+10. [Activity Selection](https://www.codingninjas.com/codestudio/problems/1062712) | [Solution](#)
 
-## Recursion AND BackTracking
+## Recursion AND BackTracking(3)
 
 [CLICK ME](https://github.com/asksaurabh/Leetcode_Prep/tree/main/03_Recursion_And_BackTracking)
 
-## Dynamic Programming
+## Dynamic Programming(4)
 
 [CLICK ME](https://github.com/asksaurabh/Leetcode_Prep/tree/main/02_Dynamic_programm)
 
-## Binary Search
+## Binary Search(5)
+Note: Find a search space which is monotonic in order to apply tis algorithm.
+
+1. [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](https://leetcode.com/problems/binary-search/discuss/1782878/C%2B%2B-or-All-Possible-Solutions)
+2. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/1783896/C%2B%2B-or-Easy-Solution)
+3. [Number of occurrence](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1/) | [Solution](#)
+4. [Number of times sorted array is rotated](https://practice.geeksforgeeks.org/problems/rotation4723/1/#) | [Solution](#)
+5. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/discuss/1784005/C%2B%2B-or-Binary-Search)
+6. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/1785348/C%2B%2B-or-Neat-Solution)
+7. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [TO DO]
+8. [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [TO DO]
+9. [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution](https://leetcode.com/problems/single-element-in-a-sorted-array/discuss/1785751/C%2B%2B-or-All-possible-Solutions)
+10. [Find in Nearly Sorted Array](https://www.geeksforgeeks.org/search-almost-sorted-array/) | [Solution](#)
+11. [Floor of number in sorted array](https://www.codingninjas.com/codestudio/problems/find-floor-value_920447) | [Solution](#)
+12. [Ceil of number in sorted array](https://www.codingninjas.com/codestudio/problems/ceiling-in-a-sorted-array_1825401) | [Solution](#)
+13. [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](https://leetcode.com/problems/search-insert-position/discuss/1785835/C%2B%2B-or-Easy-but-observation-useful-in-other-questions)
+14. 
+
+
+## LATER
+1. [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
