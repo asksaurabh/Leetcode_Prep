@@ -73,6 +73,13 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 17. [Square Root of N upto P places using Binary Search](#)
 18. [Nth Root of M using Binary Search](https://www.codingninjas.com/codestudio/problems/1062679) | [Solution](#) | [Best Solution for power questions](https://leetcode.com/problems/powx-n/discuss/1763747/C%2B%2B-or-All-Neat-Solutions)
 19. [Matrix Median](https://www.codingninjas.com/codestudio/problems/873378) | [Solution](#)
+20. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/1761280/C%2B%2B-or-All-Neat-Solutions)
+21. 
+
+## Trie(6)
+1. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](https://leetcode.com/problems/implement-trie-prefix-tree/discuss/1788976/C%2B%2B-or-Modular-Code)
+2. [Implement Trie II](https://www.codingninjas.com/codestudio/problems/implement-trie_1387095) | [Solution](#)
+3. [Longest Word With All Prefixes](https://www.codingninjas.com/codestudio/problems/complete-string_2687860) | [Solution](#)
 
 
 
