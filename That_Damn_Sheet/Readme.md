@@ -83,6 +83,7 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 4. [Count Distinct Substrings](https://www.codingninjas.com/codestudio/problems/count-distinct-substrings_985292) | [Solution](#)
 5. [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Solution](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/discuss/1790679/C%2B%2B-or-All-possible-solutions)
 6. [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/) | [Solution](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/discuss/1790835/C%2B%2B-or-Implementation-Mostly.-(Trie))
+7. [Power Set](https://practice.geeksforgeeks.org/problems/power-set4302/1#) | [Solution](#)
 
 ## Bit Manipulation(7)
 
