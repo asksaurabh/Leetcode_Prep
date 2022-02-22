@@ -80,9 +80,12 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 1. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](https://leetcode.com/problems/implement-trie-prefix-tree/discuss/1788976/C%2B%2B-or-Modular-Code)
 2. [Implement Trie II](https://www.codingninjas.com/codestudio/problems/implement-trie_1387095) | [Solution](#)
 3. [Longest Word With All Prefixes](https://www.codingninjas.com/codestudio/problems/complete-string_2687860) | [Solution](#)
-
+4. [Count Distinct Substrings](https://www.codingninjas.com/codestudio/problems/count-distinct-substrings_985292) | [Solution](#)
+5. [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Solution](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/discuss/1790679/C%2B%2B-or-All-possible-solutions)
+6. [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/) | [Solution](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/discuss/1790835/C%2B%2B-or-Implementation-Mostly.-(Trie))
 
 
 ## LATER
 1. [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
 2. [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
+3. [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)
