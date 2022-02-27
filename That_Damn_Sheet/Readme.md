@@ -89,6 +89,12 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 
 [CLICK ME](https://github.com/asksaurabh/Leetcode_Prep/tree/main/01_Bit_Manipulation)
 
+## Graph(8)
+1. [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](https://leetcode.com/problems/clone-graph/discuss/1796518/C%2B%2B-or-All-possible-solutions)
+2. [DFS Traversal](https://www.codingninjas.com/codestudio/problems/dfs-traversal_630462) | [Solution](#)
+3. [BFS Traversal](https://www.codingninjas.com/codestudio/problems/bfs-in-graph_973002) | [Solution](#)
+4. 
+
 ## LATER
 1. [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
 2. [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
