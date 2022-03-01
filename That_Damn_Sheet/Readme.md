@@ -95,6 +95,12 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 3. [BFS Traversal](https://www.codingninjas.com/codestudio/problems/bfs-in-graph_973002) | [Solution](#)
 4. 
 
+## Heaps(9)
+1. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](https://leetcode.com/problems/kth-largest-element-in-an-array/discuss/1806856/C%2B%2B-or-All-possible-Solutions)
+2. [Sort a K-sorted array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/) | [Solution](#)
+3. [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [Solution](https://leetcode.com/problems/find-k-closest-elements/discuss/1807387/C%2B%2B-or-All-possible-Solutions)
+4. 
+
 ## LATER
 1. [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
 2. [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
