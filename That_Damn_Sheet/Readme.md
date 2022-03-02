@@ -99,7 +99,22 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 1. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](https://leetcode.com/problems/kth-largest-element-in-an-array/discuss/1806856/C%2B%2B-or-All-possible-Solutions)
 2. [Sort a K-sorted array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/) | [Solution](#)
 3. [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [Solution](https://leetcode.com/problems/find-k-closest-elements/discuss/1807387/C%2B%2B-or-All-possible-Solutions)
-4. 
+4.  [K-th Largest Sum Subarray](https://www.codingninjas.com/codestudio/problems/k-th-largest-sum-contiguous-subarray_920398?leftPanelTab=0)
+5. 
+
+## Sliding Window(10)
+1. [Max Sum Subarray of size K](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1#) | [Solution](#)
+2. [Minimum Sum Subarray Of Given Size](https://www.codingninjas.com/codestudio/problems/find-minimum-sum-subarray-of-given-size_873368?leftPanelTab=0) | [Solution](#)
+3. [First negative integer in every window of size k](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1/#) | [Solution](#)
+4. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Solution](https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/1810049/C%2B%2B-or-All-possible-Solutions)
+5. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](https://leetcode.com/problems/sliding-window-maximum/discuss/1810181/C%2B%2B-or-All-possible-Solutions)
+6. [Longest sub-array having sum k (Having non negative elements)] | [Solution](#)
+7. [Longest sub-array having sum k (Having integers)](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | [Solution](#)
+8. [Longest K unique characters substring](https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1/#) | [Solution](#)
+9. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/1770062/C%2B%2B-or-Neat-Solutions)
+10. [Pick Toys] | [Solution](#)
+11. [Longest Substring with atmost k unique characters] | [Solution](#)
+12. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Solution](https://leetcode.com/problems/minimum-window-substring/discuss/1812844/C%2B%2B-or-Hard)
 
 ## LATER
 1. [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
