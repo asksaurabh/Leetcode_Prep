@@ -116,6 +116,22 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 11. [Longest Substring with atmost k unique characters] | [Solution](#)
 12. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Solution](https://leetcode.com/problems/minimum-window-substring/discuss/1812844/C%2B%2B-or-Hard)
 
+## LinkedList(11)
+1. [Reverse a List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://leetcode.com/problems/reverse-linked-list/discuss/1657887/C%2B%2B-or-All-possible-solutions)
+2. [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+3. [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](https://leetcode.com/problems/middle-of-the-linked-list/discuss/1657855/C%2B%2B-All-solutions)
+4. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://leetcode.com/problems/merge-two-sorted-lists/discuss/1657917/C%2B%2B-or-All-possible-solutions)
+5. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](https://leetcode.com/problems/remove-nth-node-from-end-of-list/discuss/1662218/C%2B%2B-or-Easy-solution)
+6. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://leetcode.com/problems/add-two-numbers/discuss/1662189/C%2B%2B-or-Better-than-given-solution)
+7. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](https://leetcode.com/problems/delete-node-in-a-linked-list/discuss/1657877/C%2B%2B-or-easy)
+8. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution](https://leetcode.com/problems/intersection-of-two-linked-lists/discuss/1657986/C%2B%2B-or-All-solutions)
+9. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution](https://leetcode.com/problems/linked-list-cycle/discuss/1658444/C%2B%2B-or-With-Explanation)
+10. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution](https://leetcode.com/problems/reverse-nodes-in-k-group/discuss/1816159/C%2B%2B-or-All-possible-Solutions)
+11. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](https://leetcode.com/problems/palindrome-linked-list/discuss/1658420/C%2B%2B-or-All-solutions)
+12. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution](https://leetcode.com/problems/linked-list-cycle-ii/discuss/1816275/C%2B%2B-or-All-possible-Solution)
+13. [Flatten a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1#) | [Solution](#)
+14. 
+
 ## LATER
 1. [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
 2. [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
