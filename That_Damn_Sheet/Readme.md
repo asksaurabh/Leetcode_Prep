@@ -130,7 +130,10 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 11. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](https://leetcode.com/problems/palindrome-linked-list/discuss/1658420/C%2B%2B-or-All-solutions)
 12. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution](https://leetcode.com/problems/linked-list-cycle-ii/discuss/1816275/C%2B%2B-or-All-possible-Solution)
 13. [Flatten a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1#) | [Solution](#)
-14. 
+14. [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](https://leetcode.com/problems/rotate-list/discuss/1817918/C%2B%2B-or-All-possible-Solutions)
+15. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](https://leetcode.com/problems/copy-list-with-random-pointer/discuss/1818124/C%2B%2B-or-All-possible-Solutions)
+16.[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/discuss/1818390/C%2B%2B-or-All-possible-Solutions)
+17. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](https://leetcode.com/problems/max-consecutive-ones/discuss/1818418/C%2B%2B-or-All-possible-Solutions)
 
 ## LATER
 1. [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
