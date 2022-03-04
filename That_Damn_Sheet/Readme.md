@@ -117,6 +117,7 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 12. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Solution](https://leetcode.com/problems/minimum-window-substring/discuss/1812844/C%2B%2B-or-Hard)
 
 ## LinkedList(11)
+
 1. [Reverse a List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://leetcode.com/problems/reverse-linked-list/discuss/1657887/C%2B%2B-or-All-possible-solutions)
 2. [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 3. [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](https://leetcode.com/problems/middle-of-the-linked-list/discuss/1657855/C%2B%2B-All-solutions)
@@ -132,10 +133,11 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 13. [Flatten a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1#) | [Solution](#)
 14. [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](https://leetcode.com/problems/rotate-list/discuss/1817918/C%2B%2B-or-All-possible-Solutions)
 15. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](https://leetcode.com/problems/copy-list-with-random-pointer/discuss/1818124/C%2B%2B-or-All-possible-Solutions)
-16.[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/discuss/1818390/C%2B%2B-or-All-possible-Solutions)
-17. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](https://leetcode.com/problems/max-consecutive-ones/discuss/1818418/C%2B%2B-or-All-possible-Solutions)
+16. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](https://leetcode.com/problems/max-consecutive-ones/discuss/1818418/C%2B%2B-or-All-possible-Solutions)
+17. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/discuss/1818390/C%2B%2B-or-All-possible-Solutions)
 
 ## LATER
 1. [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
 2. [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
 3. [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)
+
