@@ -135,6 +135,11 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 15. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](https://leetcode.com/problems/copy-list-with-random-pointer/discuss/1818124/C%2B%2B-or-All-possible-Solutions)
 16. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](https://leetcode.com/problems/max-consecutive-ones/discuss/1818418/C%2B%2B-or-All-possible-Solutions)
 17. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/discuss/1818390/C%2B%2B-or-All-possible-Solutions)
+18. [Sort List](https://leetcode.com/problems/sort-list/) | [Solution](https://leetcode.com/problems/sort-list/discuss/1670569/C%2B%2B-or-Classic-Merge-Sort)
+
+## Stacks and Queues(12)
+1. [Implement stack using array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1#)
+2. 
 
 ## LATER
 1. [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
