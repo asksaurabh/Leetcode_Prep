@@ -139,7 +139,15 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 
 ## Stacks and Queues(12)
 1. [Implement stack using array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1#)
-2. 
+2. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution](https://leetcode.com/problems/implement-stack-using-queues/discuss/1821791/C%2B%2B-or-All-possible-Solutions)
+3. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution](https://leetcode.com/problems/implement-queue-using-stacks/discuss/1821894/C%2B%2B-or-All-possible-Solutions)
+4. [Valid Paranthesis](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://leetcode.com/problems/valid-parentheses/discuss/1699931/C%2B%2B-or-Easy-or-Clean-code)
+5. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Solution](https://leetcode.com/problems/next-greater-element-i/discuss/1824502/C%2B%2B-or-All-possible-Solutions)
+6. [Sort a stack in Decreasing order](https://www.codingninjas.com/codestudio/problems/sort-a-stack_985275) | [Solution](#)
+7. [Next Smaller Element](https://www.codingninjas.com/codestudio/problems/1112581)
+8. [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Solution](https://leetcode.com/problems/lru-cache/discuss/1825335/C%2B%2B-or-All-possible-Solutions)
+9. [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [Solution](https://leetcode.com/problems/lfu-cache/discuss/1826030/C%2B%2B-or-All-possible-Solutions)
+10. 
 
 ## LATER
 1. [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
