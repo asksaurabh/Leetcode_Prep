@@ -147,7 +147,13 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 7. [Next Smaller Element](https://www.codingninjas.com/codestudio/problems/1112581)
 8. [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Solution](https://leetcode.com/problems/lru-cache/discuss/1825335/C%2B%2B-or-All-possible-Solutions)
 9. [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [Solution](https://leetcode.com/problems/lfu-cache/discuss/1826030/C%2B%2B-or-All-possible-Solutions)
-10. 
+10. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution](https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/1704769/C%2B%2B-or-Stack-solution)
+11. [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution](https://leetcode.com/problems/min-stack/discuss/1828008/C%2B%2B-or-All-possible-Solutions)
+12. [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Solution](https://leetcode.com/problems/rotting-oranges/discuss/1828101/C%2B%2B-or-Clean-Code)
+13. [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Solution](https://leetcode.com/problems/online-stock-span/discuss/1828134/C%2B%2B-or-All-possible-Solutions)
+14. [Maximum of minimum for every window size](https://www.codingninjas.com/codestudio/problems/max-of-min_982935)
+15. [The Celebrity Problem](https://www.codingninjas.com/codestudio/problems/the-celebrity-problem_982769)
+
 
 ## LATER
 1. [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
