@@ -57,4 +57,5 @@
 12. [Longest Repeating Subsequence](https://www.codingninjas.com/codestudio/problems/longest-repeating-subsequence_1118110) | [Solution](#)
 
 ## To DO JUST AFTER
-2. [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
+1. [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
+2. [Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/)
