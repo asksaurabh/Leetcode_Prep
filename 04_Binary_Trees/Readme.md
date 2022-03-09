@@ -12,3 +12,11 @@
 10. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/discuss/1741417/C%2B%2B-or-All-Possible-Solutions)
 11. [Boundary Traversal](https://www.codingninjas.com/codestudio/problems/boundary-traversal_790725) | [Solution](#)
 12. [Vertical Order Traversal](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Solution](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/1744371/C%2B%2B-or-All-possible-solutions)
+13. [Top View of the Tree](https://www.codingninjas.com/codestudio/problems/top-view-of-the-tree_799401) | [Solution](#)
+14. [Bottom View of the Tree](https://www.codingninjas.com/codestudio/problems/bottom-view-of-binary-tree_893110) | [Solution](#)
+15. 
+
+
+## Later:
+1. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
+2. 
