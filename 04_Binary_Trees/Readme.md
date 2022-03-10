@@ -20,7 +20,8 @@
 18. [Root to Node Path](https://www.interviewbit.com/problems/path-to-given-node/) | [Solution](#)
 19. [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Solution](https://leetcode.com/problems/binary-tree-paths/discuss/1835675/C%2B%2B-or-All-possible-Solutions)
 20. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/1836090/C%2B%2B-or-All-possible-Solutions)
-21. 
+21. [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Solution](https://leetcode.com/problems/maximum-width-of-binary-tree/discuss/1837064/C%2B%2B-or-Save-overflow)
+22. [Children Sum Property](https://www.codingninjas.com/codestudio/problems/childrensumproperty_790723) | [Solution](#)
 
 
 ## Later:
