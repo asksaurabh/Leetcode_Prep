@@ -154,6 +154,9 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 14. [Maximum of minimum for every window size](https://www.codingninjas.com/codestudio/problems/max-of-min_982935)
 15. [The Celebrity Problem](https://www.codingninjas.com/codestudio/problems/the-celebrity-problem_982769)
 
+## Binary Trees(13)
+
+[CLICK ME](https://github.com/asksaurabh/Leetcode_Prep/tree/main/04_Binary_Trees)
 
 ## LATER
 1. [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
