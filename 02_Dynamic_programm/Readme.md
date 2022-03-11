@@ -55,6 +55,8 @@
 10. [Print Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | [Solution](https://leetcode.com/problems/shortest-common-supersequence/discuss/1831185/C%2B%2B-or-LCS-variation)
 11. [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Solution](https://leetcode.com/problems/delete-operation-for-two-strings/discuss/1831211/C%2B%2B-or-All-possible-Solutions)
 12. [Longest Repeating Subsequence](https://www.codingninjas.com/codestudio/problems/longest-repeating-subsequence_1118110) | [Solution](#)
+13. [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Solution](https://leetcode.com/problems/distinct-subsequences/discuss/1837566/C%2B%2B-or-All-possible-Solutions)
+14. 
 
 ## To DO JUST AFTER
 1. [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
