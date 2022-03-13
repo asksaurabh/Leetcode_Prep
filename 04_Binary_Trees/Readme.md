@@ -25,7 +25,11 @@
 23. [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Solution](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/discuss/1838543/C%2B%2B-or-All-possible-Solutions)
 24. [Time To Burn Tree](https://www.codingninjas.com/codestudio/problems/time-to-burn-tree_630563) | [Solution](#)
 25. [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Solution](https://leetcode.com/problems/count-complete-tree-nodes/discuss/1841518/C%2B%2B-or-All-possible-Solutions)
-26. 
+26. [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/discuss/1843216/C%2B%2B-or-All-possible-Solution)
+27. [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solution](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/discuss/1843306/C%2B%2B-or-Recursive-Algo)
+28. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/discuss/1843369/C%2B%2B-or-stringstream-usage)
+29. [Morris Traversal Inorder](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/1574241/C%2B%2B-or-various-solutions) | [Morris Traversal Preorder](https://leetcode.com/problems/binary-tree-preorder-traversal/discuss/1574207/C%2B%2B-or-Various-Solutions) | [Morris Traversal Postorder](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/1739455/C%2B%2B-or-All-possible-Solutions)
+30. [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Solution](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/discuss/1844714/C%2B%2B-or-All-possible-Solutions)
 
 ## Later:
 1. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
