@@ -31,6 +31,16 @@
 29. [Morris Traversal Inorder](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/1574241/C%2B%2B-or-various-solutions) | [Morris Traversal Preorder](https://leetcode.com/problems/binary-tree-preorder-traversal/discuss/1574207/C%2B%2B-or-Various-Solutions) | [Morris Traversal Postorder](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/1739455/C%2B%2B-or-All-possible-Solutions)
 30. [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Solution](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/discuss/1844714/C%2B%2B-or-All-possible-Solutions)
 
+## Binary Search Trees(1)
+
+1. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](https://leetcode.com/problems/search-in-a-binary-search-tree/discuss/1846626/C%2B%2B-or-All-possible-Solutions)
+2. [Ceil in BST](https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464) | [Solution](#)
+3. [Floor in BST](https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457) | [Solution](#)
+4. [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Solution](https://leetcode.com/problems/insert-into-a-binary-search-tree/discuss/1846804/C%2B%2B-or-All-possible-Solutions)
+5. [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Solution](https://leetcode.com/problems/delete-node-in-a-bst/discuss/1846932/C%2B%2B-or-All-possible-Solutions)
+
+
+
 ## Later:
 1. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
 2. 
