@@ -38,7 +38,9 @@
 3. [Floor in BST](https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457) | [Solution](#)
 4. [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Solution](https://leetcode.com/problems/insert-into-a-binary-search-tree/discuss/1846804/C%2B%2B-or-All-possible-Solutions)
 5. [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Solution](https://leetcode.com/problems/delete-node-in-a-bst/discuss/1846932/C%2B%2B-or-All-possible-Solutions)
-
+6. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution](https://leetcode.com/problems/kth-smallest-element-in-a-bst/discuss/1847763/C%2B%2B-or-All-possible-Solutions)
+7. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](https://leetcode.com/problems/validate-binary-search-tree/discuss/1848241/C%2B%2B-or-All-possible-Solutions)
+8. 
 
 
 ## Later:
