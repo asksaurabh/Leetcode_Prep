@@ -40,7 +40,9 @@
 5. [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Solution](https://leetcode.com/problems/delete-node-in-a-bst/discuss/1846932/C%2B%2B-or-All-possible-Solutions)
 6. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution](https://leetcode.com/problems/kth-smallest-element-in-a-bst/discuss/1847763/C%2B%2B-or-All-possible-Solutions)
 7. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](https://leetcode.com/problems/validate-binary-search-tree/discuss/1848241/C%2B%2B-or-All-possible-Solutions)
-8. 
+8. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/discuss/1848301/C%2B%2B-or-All-possible-Solutions)
+9. [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Solution](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/discuss/1848859/C%2B%2B-or-All-possible-Solutions)
+10. [Predecessor and Successor In BST](https://www.codingninjas.com/codestudio/problems/predecessor-and-successor_920476) | [Solution](#)
 
 
 ## Later:
