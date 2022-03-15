@@ -43,8 +43,12 @@
 8. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/discuss/1848301/C%2B%2B-or-All-possible-Solutions)
 9. [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Solution](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/discuss/1848859/C%2B%2B-or-All-possible-Solutions)
 10. [Predecessor and Successor In BST](https://www.codingninjas.com/codestudio/problems/predecessor-and-successor_920476) | [Solution](#)
+11. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Solution](https://leetcode.com/problems/binary-search-tree-iterator/discuss/1850743/C%2B%2B-or-All-possible-Solutions)
+12. [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Solution](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/1851934/C%2B%2B-or-All-possible-Solutions)
+13. [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Solution](https://leetcode.com/problems/recover-binary-search-tree/discuss/1852163/C%2B%2B-or-All-possible-Solutions)
+14. [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1#) | [Solution](#)
 
 
 ## Later:
 1. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
-2. 
+2. [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)
