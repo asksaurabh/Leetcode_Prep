@@ -57,7 +57,14 @@
 12. [Longest Repeating Subsequence](https://www.codingninjas.com/codestudio/problems/longest-repeating-subsequence_1118110) | [Solution](#)
 13. [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Solution](https://leetcode.com/problems/distinct-subsequences/discuss/1837566/C%2B%2B-or-All-possible-Solutions)
 14. [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Solution](https://leetcode.com/problems/edit-distance/discuss/1841411/C%2B%2B-or-All-possible-Solutions)
-15. 
+15. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Solution](https://leetcode.com/problems/wildcard-matching/discuss/1852783/C%2B%2B-or-All-possible-Solutions)
+
+## DP on Stocks(5)
+
+1. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/1757585/C%2B%2B-or-All-possible-Solutions)
+2. [Best Time to Buy and Sell Stock II (Infinite Tranc with no overlapping Transc.)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/discuss/1854165/C%2B%2B-or-All-possible-Solutions)
+3. [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/discuss/1854475/C%2B%2B-or-All-possible-Solutions)
+4. 
 
 ## To DO JUST AFTER
 1. [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
