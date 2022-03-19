@@ -8,3 +8,7 @@
 6. [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Solution](https://leetcode.com/problems/is-graph-bipartite/discuss/1857339/C%2B%2B-or-All-possible-Solutions)
 7. [Detect Cycle In A Directed Graph - DFS/BFS](https://www.codingninjas.com/codestudio/problems/1062626) 
 8. [Topological Sort - DFS/BFS](https://www.codingninjas.com/codestudio/problems/982938)
+9. [Shortest path from 1 to n](https://practice.geeksforgeeks.org/problems/shortest-path-from-1-to-n0156/1/#)
+10. [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Solution](https://leetcode.com/problems/course-schedule/discuss/1863659/C%2B%2B-or-All-possible-Solutions)
+11. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Solution](https://leetcode.com/problems/course-schedule-ii/discuss/1863744/C%2B%2B-or-All-possible-Solutions)
+12. 
