@@ -11,4 +11,10 @@
 9. [Shortest path from 1 to n](https://practice.geeksforgeeks.org/problems/shortest-path-from-1-to-n0156/1/#)
 10. [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Solution](https://leetcode.com/problems/course-schedule/discuss/1863659/C%2B%2B-or-All-possible-Solutions)
 11. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Solution](https://leetcode.com/problems/course-schedule-ii/discuss/1863744/C%2B%2B-or-All-possible-Solutions)
-12. 
+12. [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [Solution](https://leetcode.com/problems/find-if-path-exists-in-graph/discuss/1867853/C%2B%2B-or-All-possible-Solutions)
+13. [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Solution](https://leetcode.com/problems/find-the-town-judge/discuss/1867928/C%2B%2B-or-All-possible-Solutions)
+14. [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Solution](https://leetcode.com/problems/all-paths-from-source-to-target/discuss/1867989/C%2B%2B-or-Backtracking)
+15. [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | [Solution](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/discuss/1870754/C%2B%2B-or-All-possible-Solutions)
+16. [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Solution](https://leetcode.com/problems/keys-and-rooms/discuss/1870904/C%2B%2B-or-All-possible-Solutions)
+17. [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Solution](https://leetcode.com/problems/number-of-provinces/discuss/1871083/C%2B%2B-or-All-possible-Solutions)
+18. 
