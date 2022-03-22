@@ -91,7 +91,7 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 
 ## Graph(8)
 
-[CLICK ME](#) 
+[CLICK ME](https://github.com/asksaurabh/Leetcode_Prep/tree/main/05_Graphs) 
 
 ## Heaps(9)
 1. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](https://leetcode.com/problems/kth-largest-element-in-an-array/discuss/1806856/C%2B%2B-or-All-possible-Solutions)
