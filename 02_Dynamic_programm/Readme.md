@@ -65,7 +65,8 @@
 1. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/1757585/C%2B%2B-or-All-possible-Solutions)
 2. [Best Time to Buy and Sell Stock II (Infinite Tranc with no overlapping Transc.)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/discuss/1854165/C%2B%2B-or-All-possible-Solutions)
 3. [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/discuss/1854475/C%2B%2B-or-All-possible-Solutions)
-4. 
+4. [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/1873918/C%2B%2B-or-All-possible-Solutions)
+5. 
 
 ## To DO JUST AFTER
 1. [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
