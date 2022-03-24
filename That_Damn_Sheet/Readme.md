@@ -30,6 +30,13 @@
 27. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](https://leetcode.com/problems/subarray-sum-equals-k/discuss/1769617/C%2B%2B-or-All-Neat-Solutions)
 28. [Largest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1#) | [Solution](#)
 29. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/1770062/C%2B%2B-or-Neat-Solutions)
+30. [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Solution](https://leetcode.com/problems/pascals-triangle-ii/discuss/1876339/C%2B%2B-or-All-possible-Solutions)
+31. [Wiggle Sort-1](https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1/#) | [Solution](#)
+32. [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [Solution](https://leetcode.com/problems/degree-of-an-array/discuss/1876974/C%2B%2B-or-All-possible-Solutions)
+33. [Sum of Beauty in the Array](https://leetcode.com/problems/sum-of-beauty-in-the-array/) | [Solution](https://leetcode.com/problems/sum-of-beauty-in-the-array/discuss/1878173/C%2B%2B-or-All-possible-Solutions)
+34. [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | [Solution](https://leetcode.com/problems/maximum-difference-between-increasing-elements/discuss/1878203/C%2B%2B-or-All-possible-Solutions)
+35. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [Solution](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/discuss/1878309/C%2B%2B-or-All-possible-solutions)
+36. 
 
 ## Greedy Algo(2)
 1. [N meetings in One Room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#) | [Solution](#)
