@@ -38,6 +38,8 @@
 35. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [Solution](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/discuss/1878309/C%2B%2B-or-All-possible-solutions)
 36. [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Solution](https://leetcode.com/problems/insert-interval/discuss/1879461/C%2B%2B-or-All-possible-Solutions)
 37. [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Solution](https://leetcode.com/problems/partition-labels/discuss/1880583/C%2B%2B-or-All-possible-Solutions)
+38. [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Solution](https://leetcode.com/problems/interval-list-intersections/discuss/1881620/C%2B%2B-or-Solution)
+39. 
 
 ## Greedy Algo(2)
 1. [N meetings in One Room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#) | [Solution](#)
