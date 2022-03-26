@@ -1,7 +1,7 @@
 # Recursion
 
 1. [Subsets](https://leetcode.com/problems/subsets/) | [Solution](https://leetcode.com/problems/subsets/discuss/1728429/C%2B%2B-or-All-possible-Solutions)
-2. [Play with Subsequences with sum k](#) | [Note: Use for loops with printing stuff. For counting -> Go solo]
+2. [Play with Subsequences with sum k](https://github.com/asksaurabh/Leetcode_Prep/blob/main/03_Recursion_And_BackTracking/02_subsequences_with_sum_k.cpp) | [Note: Use for loops with printing stuff. For counting -> Go solo]
 3. [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](https://leetcode.com/problems/combination-sum/discuss/1710057/C%2B%2B-or-Easy)
 4. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Solution](https://leetcode.com/problems/combination-sum-ii/discuss/1710314/C%2B%2B-or-Nice-question)
 5. [Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1#) | [Solution](#)
