@@ -130,7 +130,7 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 ## LinkedList(11)
 
 1. [Reverse a List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://leetcode.com/problems/reverse-linked-list/discuss/1657887/C%2B%2B-or-All-possible-solutions)
-2. [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+2. [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Solution](https://leetcode.com/problems/reverse-linked-list-ii/discuss/1895498/C%2B%2B-or-All-possible-Solutions)
 3. [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](https://leetcode.com/problems/middle-of-the-linked-list/discuss/1657855/C%2B%2B-All-solutions)
 4. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://leetcode.com/problems/merge-two-sorted-lists/discuss/1657917/C%2B%2B-or-All-possible-solutions)
 5. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](https://leetcode.com/problems/remove-nth-node-from-end-of-list/discuss/1662218/C%2B%2B-or-Easy-solution)
