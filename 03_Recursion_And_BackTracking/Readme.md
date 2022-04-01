@@ -9,6 +9,9 @@
 7. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Solution](https://leetcode.com/problems/palindrome-partitioning/discuss/1718377/C%2B%2B-or-All-possible-solutions)
 8. [Kth Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Solution](https://leetcode.com/problems/permutation-sequence/discuss/1718570/C%2B%2B-or-All-possible-solutions)
 9. [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Solution](https://leetcode.com/problems/word-break-ii/discuss/1776387/C%2B%2B-or-All-possible-Solutions)
+10. [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Solution](https://leetcode.com/problems/combination-sum-iii/discuss/1896884/C%2B%2B-or-Solution)
+11. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Solution](https://leetcode.com/problems/combination-sum-iv/discuss/1896991/C%2B%2B-or-Solutions)
+12. [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Solution](https://leetcode.com/problems/permutations-ii/discuss/1898675/C%2B%2B-or-Solutions)
 
 # Backtracking
 

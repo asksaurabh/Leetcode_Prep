@@ -49,12 +49,13 @@
 2. [Minimum Platform (N meetings in min no of rooms)](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#) | [Solution](#)
 3. [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#) | [Solution](#)
 4. [Colorful Array](https://www.spoj.com/problems/CLFLARR/) [For optimization of 32.]
-5. [Maximum Profit in Job Scheduling(This is DP)](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Solution](https://leetcode.com/problems/maximum-profit-in-job-scheduling/discuss/1772535/C%2B%2B-or-Neat-Solution)
+5. [Maximum Profit in Job Scheduling(This is DP)](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Solution](https://leetcode.com/problems/maximum-profit-in-job-scheduling/discuss/1903153/C%2B%2B-or-All-possible-Solutions)
 6. [Fractional Knapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1#) | [Solution](#)
 7. [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Solution](https://leetcode.com/problems/maximum-units-on-a-truck/discuss/1772899/C%2B%2B-or-All-Possible-Solutions)
 8. [Indian Coin Change](https://www.codingninjas.com/codestudio/problems/975277) | [Solution](#)
 9. [READ reasoning for Indian Coin change](https://stackoverflow.com/questions/13557979/why-does-the-greedy-coin-change-algorithm-not-work-for-some-coin-sets?rq=1)
 10. [Activity Selection](https://www.codingninjas.com/codestudio/problems/1062712) | [Solution](#)
+11. [Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/) | [Solution](https://leetcode.com/problems/maximum-earnings-from-taxi/discuss/1903196/C%2B%2B-or-All-possible-Solutions)
 
 ## Recursion AND BackTracking(3)
 
