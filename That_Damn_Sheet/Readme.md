@@ -56,6 +56,7 @@
 9. [READ reasoning for Indian Coin change](https://stackoverflow.com/questions/13557979/why-does-the-greedy-coin-change-algorithm-not-work-for-some-coin-sets?rq=1)
 10. [Activity Selection](https://www.codingninjas.com/codestudio/problems/1062712) | [Solution](#)
 11. [Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/) | [Solution](https://leetcode.com/problems/maximum-earnings-from-taxi/discuss/1903196/C%2B%2B-or-All-possible-Solutions)
+12. [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [Solution](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/discuss/1904282/C%2B%2B-or-Solutions)
 
 ## Recursion AND BackTracking(3)
 
