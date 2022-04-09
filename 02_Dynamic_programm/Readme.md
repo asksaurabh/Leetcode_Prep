@@ -69,6 +69,10 @@
 5. [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/discuss/1874294/C%2B%2B-or-All-possible-Solutions)
 6. [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/discuss/1882770/C%2B%2B-or-Solutions)
 
+## DP on LIS Patterns
+
+1. 
+
 ## To DO JUST AFTER
 1. [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
 2. [Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/)

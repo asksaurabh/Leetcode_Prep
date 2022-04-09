@@ -42,7 +42,12 @@
 39. [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) | [Solution](https://leetcode.com/problems/divide-array-into-equal-pairs/discuss/1883046/C%2B%2B-or-All-possible-Solutions)
 40. [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Solution](https://leetcode.com/problems/sort-array-by-increasing-frequency/discuss/1883087/C%2B%2B-or-All-possible-Solutions)
 41. [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](https://leetcode.com/problems/sort-characters-by-frequency/discuss/1883111/C%2B%2B-or-All-possible-Solutions)
-42. 
+42. [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/discuss/1926659/C%2B%2B-or-Solutions)
+43. [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | [Solution](https://leetcode.com/problems/count-good-meals/discuss/1927064/C%2B%2B-or-Solution)
+44. [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [Solution](https://leetcode.com/problems/max-number-of-k-sum-pairs/discuss/1927107/C%2B%2B-or-Solution)
+45. [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [Solution](https://leetcode.com/problems/beautiful-arrangement/discuss/1927168/C%2B%2B-or-Solutions)
+46. [Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) | [Solution](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/discuss/1927213/C%2B%2B-or-Solution)
+47. 
 
 ## Greedy Algo(2)
 1. [N meetings in One Room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#) | [Solution](#)
@@ -57,6 +62,8 @@
 10. [Activity Selection](https://www.codingninjas.com/codestudio/problems/1062712) | [Solution](#)
 11. [Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/) | [Solution](https://leetcode.com/problems/maximum-earnings-from-taxi/discuss/1903196/C%2B%2B-or-All-possible-Solutions)
 12. [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [Solution](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/discuss/1904282/C%2B%2B-or-Solutions)
+13. [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | [Solution](https://leetcode.com/problems/best-sightseeing-pair/discuss/1917203/C%2B%2B-or-Solution)
+14. [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/) | [Solution](https://leetcode.com/problems/maximum-number-of-points-with-cost/discuss/1917624/C%2B%2B-or-Solutions)
 
 ## Recursion AND BackTracking(3)
 
@@ -113,7 +120,8 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 2. [Sort a K-sorted array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/) | [Solution](#)
 3. [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [Solution](https://leetcode.com/problems/find-k-closest-elements/discuss/1807387/C%2B%2B-or-All-possible-Solutions)
 4.  [K-th Largest Sum Subarray](https://www.codingninjas.com/codestudio/problems/k-th-largest-sum-contiguous-subarray_920398?leftPanelTab=0)
-5. 
+5. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Solution](https://leetcode.com/problems/kth-largest-element-in-a-stream/discuss/1926184/C%2B%2B-or-Solution)
+6. 
 
 ## Sliding Window(10)
 1. [Max Sum Subarray of size K](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1#) | [Solution](#)
