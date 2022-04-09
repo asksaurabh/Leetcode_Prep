@@ -47,7 +47,8 @@
 44. [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [Solution](https://leetcode.com/problems/max-number-of-k-sum-pairs/discuss/1927107/C%2B%2B-or-Solution)
 45. [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [Solution](https://leetcode.com/problems/beautiful-arrangement/discuss/1927168/C%2B%2B-or-Solutions)
 46. [Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) | [Solution](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/discuss/1927213/C%2B%2B-or-Solution)
-47. 
+47. [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | [Solution](https://leetcode.com/problems/beautiful-arrangement-ii/discuss/1928918/C%2B%2B-or-Solution)
+48. 
 
 ## Greedy Algo(2)
 1. [N meetings in One Room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#) | [Solution](#)
