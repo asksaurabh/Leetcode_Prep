@@ -76,7 +76,8 @@
 3. [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [Solution](https://leetcode.com/problems/largest-divisible-subset/discuss/1936676/C%2B%2B-or-LIS-Variation)
 4. [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [Solution](https://leetcode.com/problems/longest-string-chain/discuss/1939193/C%2B%2B-or-Concept-of-LIS)
 5. [Longest Bitonic Sequence](https://www.codingninjas.com/codestudio/problems/longest-bitonic-sequence_1062688) | [Solution](#)
-6. 
+6. [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | [Solution](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/discuss/1939475/C%2B%2B-or-Solution)
+7. 
 
 ## To DO JUST AFTER
 1. [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
