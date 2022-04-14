@@ -78,7 +78,11 @@
 5. [Longest Bitonic Sequence](https://www.codingninjas.com/codestudio/problems/longest-bitonic-sequence_1062688) | [Solution](#)
 6. [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | [Solution](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/discuss/1939475/C%2B%2B-or-Solution)
 7. [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [Solution](https://leetcode.com/problems/number-of-longest-increasing-subsequence/discuss/1940542/C%2B%2B-or-Solution)
-8. 
+8. [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | [Solution](https://leetcode.com/problems/russian-doll-envelopes/discuss/1942829/C%2B%2B-or-Solution)
+9. [Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | [Solution](#)
+10. [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | [Solution](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/discuss/1943792/C%2B%2B-or-Solution)
+11. [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Solution](https://leetcode.com/problems/longest-continuous-increasing-subsequence/discuss/1947054/C%2B%2B-or-Solution)
+12. 
 
 ## To DO JUST AFTER
 1. [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
