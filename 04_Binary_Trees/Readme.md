@@ -47,6 +47,8 @@
 12. [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Solution](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/1851934/C%2B%2B-or-All-possible-Solutions)
 13. [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Solution](https://leetcode.com/problems/recover-binary-search-tree/discuss/1852163/C%2B%2B-or-All-possible-Solutions)
 14. [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1#) | [Solution](#)
+15. [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Solution](https://leetcode.com/problems/trim-a-binary-search-tree/discuss/1950501/C%2B%2B-or-Solution)
+16. [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Solution](https://leetcode.com/problems/convert-bst-to-greater-tree/discuss/1952412/C%2B%2B-or-Solution)
 
 
 ## Later:
