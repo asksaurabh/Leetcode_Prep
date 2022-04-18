@@ -49,6 +49,7 @@
 14. [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1#) | [Solution](#)
 15. [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Solution](https://leetcode.com/problems/trim-a-binary-search-tree/discuss/1950501/C%2B%2B-or-Solution)
 16. [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Solution](https://leetcode.com/problems/convert-bst-to-greater-tree/discuss/1952412/C%2B%2B-or-Solution)
+17. [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [Solution](https://leetcode.com/problems/increasing-order-search-tree/discuss/1957106/C%2B%2B-or-Solution)
 
 
 ## Later:

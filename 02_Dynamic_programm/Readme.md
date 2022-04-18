@@ -84,7 +84,11 @@
 9. [Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | [Solution](#)
 10. [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | [Solution](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/discuss/1943792/C%2B%2B-or-Solution)
 11. [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Solution](https://leetcode.com/problems/longest-continuous-increasing-subsequence/discuss/1947054/C%2B%2B-or-Solution)
-12. 
+
+## DP on Partitions(7)
+
+1. [MCM](https://www.codingninjas.com/codestudio/problems/matrix-chain-multiplication_975344) | [Solution](#)
+2. 
 
 ## To DO JUST AFTER
 1. [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
