@@ -49,6 +49,8 @@
 46. [Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) | [Solution](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/discuss/1927213/C%2B%2B-or-Solution)
 47. [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | [Solution](https://leetcode.com/problems/beautiful-arrangement-ii/discuss/1928918/C%2B%2B-or-Solution)
 48. [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](https://leetcode.com/problems/palindrome-number/discuss/1954386/C%2B%2B-or-Solution)
+49. [Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) | [SOlution](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/discuss/1961996/C%2B%2B-or-Solution)
+50. [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | [Solution](https://leetcode.com/problems/find-closest-number-to-zero/discuss/1962010/C%2B%2B-or-Solution)
 
 ## Greedy Algo(2)
 1. [N meetings in One Room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#) | [Solution](#)
@@ -65,6 +67,7 @@
 12. [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [Solution](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/discuss/1904282/C%2B%2B-or-Solutions)
 13. [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | [Solution](https://leetcode.com/problems/best-sightseeing-pair/discuss/1917203/C%2B%2B-or-Solution)
 14. [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/) | [Solution](https://leetcode.com/problems/maximum-number-of-points-with-cost/discuss/1917624/C%2B%2B-or-Solutions)
+15. [Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/) | [Solution](https://leetcode.com/problems/design-an-atm-machine/discuss/1962001/C%2B%2B-or-Solution)
 
 ## Recursion AND BackTracking(3)
 
