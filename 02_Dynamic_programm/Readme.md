@@ -88,7 +88,10 @@
 ## DP on Partitions(7)
 
 1. [MCM](https://www.codingninjas.com/codestudio/problems/matrix-chain-multiplication_975344) | [Solution](#)
-2. 
+2. [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | [SOlution](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/discuss/1967673/C%2B%2B-or-Solution)
+3. [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+4. [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)
+5. [Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)
 
 ## To DO JUST AFTER
 1. [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)

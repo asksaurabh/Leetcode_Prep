@@ -51,6 +51,15 @@
 48. [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution](https://leetcode.com/problems/palindrome-number/discuss/1954386/C%2B%2B-or-Solution)
 49. [Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) | [SOlution](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/discuss/1961996/C%2B%2B-or-Solution)
 50. [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | [Solution](https://leetcode.com/problems/find-closest-number-to-zero/discuss/1962010/C%2B%2B-or-Solution)
+51. [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Solution](https://leetcode.com/problems/design-hashset/discuss/1969485/C%2B%2B-or-Solution)
+52. [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Solution](https://leetcode.com/problems/sort-array-by-parity/discuss/2001553/C%2B%2B-or-Solution)
+53. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Solution](https://leetcode.com/problems/backspace-string-compare/discuss/1999214/C%2B%2B-or-Solution)
+54. [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/discuss/2005498/C%2B%2B-or-Approaches)
+55. [Count and Say](https://leetcode.com/problems/count-and-say/)
+56. [Find Palindrome With Fixed Length](https://leetcode.com/problems/find-palindrome-with-fixed-length/)
+57. [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Solution](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/discuss/2013250/C%2B%2B-or-Solution)
+58. [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [Solution](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/discuss/2013376/C%2B%2B-or-Solution)
+
 
 ## Greedy Algo(2)
 1. [N meetings in One Room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#) | [Solution](#)
@@ -161,6 +170,7 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 16. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](https://leetcode.com/problems/max-consecutive-ones/discuss/1818418/C%2B%2B-or-All-possible-Solutions)
 17. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/discuss/1818390/C%2B%2B-or-All-possible-Solutions)
 18. [Sort List](https://leetcode.com/problems/sort-list/) | [Solution](https://leetcode.com/problems/sort-list/discuss/1670569/C%2B%2B-or-Classic-Merge-Sort)
+19. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 ## Stacks and Queues(12)
 1. [Implement stack using array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1#)

@@ -21,6 +21,7 @@
 4. [M-coloring Problem](https://www.codingninjas.com/codestudio/problems/981273) | [Solution](#)
 5. [Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#) | [Solution](#)
 6. [Rat in a Maze](https://www.codingninjas.com/codestudio/problems/758966) 
+7. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/1981587/C%2B%2B-or-Solution)
 
 ## EXTRAS:
 
