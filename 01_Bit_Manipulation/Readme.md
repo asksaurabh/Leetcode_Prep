@@ -1,12 +1,12 @@
 # Bitmasking Questions
 
 1. [Bitmask Tricks](#)
-2. [Power of 4](https://leetcode.com/problems/power-of-four/)
-3. [Decode Xored Array](https://leetcode.com/problems/decode-xored-array/)
-4. [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
-5. [Longest Consecutive 1's](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1/)
-6. [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
-7. [Single Number - I](https://leetcode.com/problems/single-number/)
+2. [Power of 4](https://leetcode.com/problems/power-of-four/) | [Solution](https://leetcode.com/problems/power-of-four/discuss/1721872/C%2B%2B-or-All-possible-solutions)
+3. [Decode Xored Array](https://leetcode.com/problems/decode-xored-array/) | [Solution](https://leetcode.com/problems/decode-xored-array/discuss/1721980/C%2B%2B-or-XOR-property)
+4. [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Solution](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/discuss/1721641/C%2B%2B-or-All-possible-solutions)
+5. [Longest Consecutive 1's](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1/) | [Solution](#)
+6. [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Solution](https://leetcode.com/problems/hamming-distance/discuss/1721700/C%2B%2B-or-All-possible-solutions)
+7. [Single Number - I](https://leetcode.com/problems/single-number/) | [Solution]()
 8. [Single Number - III](https://leetcode.com/problems/single-number-iii/)
 9. [Single Number - II](https://leetcode.com/problems/single-number-ii/)
 10. [Find all subsequences of string](#)
