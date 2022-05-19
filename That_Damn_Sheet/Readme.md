@@ -59,7 +59,8 @@
 56. [Find Palindrome With Fixed Length](https://leetcode.com/problems/find-palindrome-with-fixed-length/)
 57. [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Solution](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/discuss/2013250/C%2B%2B-or-Solution)
 58. [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [Solution](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/discuss/2013376/C%2B%2B-or-Solution)
-
+59. [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Solution](https://leetcode.com/problems/flatten-nested-list-iterator/discuss/2020652/C%2B%2B-or-Solution)
+60. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/1981587/C%2B%2B-or-Solution)
 
 ## Greedy Algo(2)
 1. [N meetings in One Room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#) | [Solution](#)
