@@ -18,6 +18,7 @@
 15. [Jump Game VI](https://leetcode.com/problems/jump-game-vi/)
 16. [Jump Game VII](https://leetcode.com/problems/jump-game-vii/)
 17. [Open the Lock](https://leetcode.com/problems/open-the-lock/) | [Solution](https://leetcode.com/problems/open-the-lock/discuss/2086848/C%2B%2B-or-Solution)
+18. []()
 
 ## DP On Grids(2)
 1. [Ninja Training](https://www.codingninjas.com/codestudio/problems/ninja-s-training_3621003)
