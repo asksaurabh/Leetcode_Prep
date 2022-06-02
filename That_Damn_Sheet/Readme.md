@@ -61,6 +61,9 @@
 58. [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [Solution](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/discuss/2013376/C%2B%2B-or-Solution)
 59. [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Solution](https://leetcode.com/problems/flatten-nested-list-iterator/discuss/2020652/C%2B%2B-or-Solution)
 60. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/1981587/C%2B%2B-or-Solution)
+61. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Solution](https://leetcode.com/problems/maximum-product-of-word-lengths/discuss/2088632/C%2B%2B-or-Solution)
+62. [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | [Solution](https://leetcode.com/problems/hand-of-straights/discuss/2094389/C%2B%2B-or-Solution)
+63. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Solution](https://leetcode.com/problems/transpose-matrix/discuss/2101712/C%2B%2B-or-Solution)
 
 ## Greedy Algo(2)
 1. [N meetings in One Room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#) | [Solution](#)
@@ -172,6 +175,7 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 17. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/discuss/1818390/C%2B%2B-or-All-possible-Solutions)
 18. [Sort List](https://leetcode.com/problems/sort-list/) | [Solution](https://leetcode.com/problems/sort-list/discuss/1670569/C%2B%2B-or-Classic-Merge-Sort)
 19. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+20. [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) | [Solution](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/discuss/2102638/C%2B%2B-or-Solution)
 
 ## Stacks and Queues(12)
 1. [Implement stack using array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1#)
