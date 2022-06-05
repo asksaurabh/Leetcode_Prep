@@ -52,3 +52,6 @@
 50. [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 51. [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)
 52. [delete-n-nodes-after-m-nodes-of-a-linked-list](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/)
+53. [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
+54. [Magical String](https://leetcode.com/problems/magical-string/)
+55. [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
