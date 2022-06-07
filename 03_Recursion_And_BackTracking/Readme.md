@@ -18,8 +18,8 @@
 1. [Permutations](https://leetcode.com/problems/permutations/) | [Solution](https://leetcode.com/problems/permutations/discuss/1712452/C%2B%2B-or-All-possible-solutions)
 2. [N-Queens](https://leetcode.com/problems/n-queens/) | [Solution](https://leetcode.com/problems/n-queens/discuss/1715305/C%2B%2B-or-All-possible-solutions)
 3. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Solution](https://leetcode.com/problems/sudoku-solver/discuss/1716496/C%2B%2B-or-All-possible-solutions)
-4. [M-coloring Problem](https://www.codingninjas.com/codestudio/problems/981273) | [Solution](#)
-5. [Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#) | [Solution](#)
+4. [M-coloring Problem](https://www.codingninjas.com/codestudio/problems/981273) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/03_Recursion_And_BackTracking/10_m-coloring.cpp)
+5. [Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/03_Recursion_And_BackTracking/12_rat_in_a_maze_1.cpp)
 6. [Rat in a Maze](https://www.codingninjas.com/codestudio/problems/758966) 
 7. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/1981587/C%2B%2B-or-Solution)
 
@@ -64,3 +64,6 @@
 37. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](https://leetcode.com/problems/valid-sudoku/discuss/2121266/C%2B%2B-or-Solution)
 38. [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)
 39. [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/)
+40. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+41. [Binary Watch](https://leetcode.com/problems/binary-watch/)
+42. [Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/)
