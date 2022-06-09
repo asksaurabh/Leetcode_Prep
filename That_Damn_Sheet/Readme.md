@@ -178,6 +178,21 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 19. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 20. [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) | [Solution](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/discuss/2102638/C%2B%2B-or-Solution)
 
+## EXTRAS
+
+1. [binary-tree-upside-down](https://leetcode.com/problems/binary-tree-upside-down/)
+2. [max-stack](https://leetcode.com/problems/max-stack/)
+3. [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)
+4. [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)
+5. [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+6. [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
+7. [Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/)
+8. [shortest-word-distance-ii](https://leetcode.com/problems/shortest-word-distance-ii/)
+9. [add-two-polynomials-represented-as-linked-lists](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/)
+10. [longest-common-subsequence-between-sorted-arrays](https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays/)
+11. [delete-n-nodes-after-m-nodes-of-a-linked-list](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/)
+12. 
+
 ## Stacks and Queues(12)
 1. [Implement stack using array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1#)
 2. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution](https://leetcode.com/problems/implement-stack-using-queues/discuss/1821791/C%2B%2B-or-All-possible-Solutions)
