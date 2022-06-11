@@ -52,9 +52,10 @@
 
 ## DP on Strings(4)
 
-1. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](https://leetcode.com/problems/longest-common-subsequence/)
-2. [Print LCS](https://www.geeksforgeeks.org/printing-longest-common-subsequence/) | [Solution](#)
-3. [Longest Common Substring](https://www.codingninjas.com/codestudio/problems/longest-common-substring_1235207) | [Solution](#)
+1. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](https://leetcode.com/problems/longest-common-subsequence/discuss/1830210/C%2B%2B-or-All-possible-Solutions)
+
+2. [Print LCS](https://www.geeksforgeeks.org/printing-longest-common-subsequence/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/4_3_printlcs.cpp)
+3. [Longest Common Substring](https://www.codingninjas.com/codestudio/problems/longest-common-substring_1235207) | [Solution](https://github.com/asksaurabh/Algorithms/blob/main/2.dp/12.longest_common_substring.cpp)
 4. [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Solution](https://leetcode.com/problems/maximum-length-of-repeated-subarray/discuss/1830389/C%2B%2B-or-All-possible-Solutions)
 5. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Solution](https://leetcode.com/problems/longest-palindromic-subsequence/discuss/1830520/C%2B%2B-or-All-possible-Solutions)
 6. [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [Solution](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/discuss/1831052/C%2B%2B-or-All-possible-Solutions)
@@ -69,6 +70,19 @@
 15. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Solution](https://leetcode.com/problems/wildcard-matching/discuss/1852783/C%2B%2B-or-All-possible-Solutions)
 16. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](https://leetcode.com/problems/longest-palindromic-substring/discuss/1860947/C%2B%2B-or-All-possible-Solutions)
 17. [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [Solution](https://leetcode.com/problems/interleaving-string/discuss/1951687/C%2B%2B-or-Solution)
+
+## EXTRAS
+1. [Maximize Number of Subsequences in a String](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/)
+2. [Longest common substring in binary representation of two numbers](https://www.geeksforgeeks.org/longest-common-substring-binary-representation-two-numbers/)
+3. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+4. [Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/)
+5. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+6. [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/)
+7. [longest-palindromic-subsequence-ii](https://leetcode.com/problems/longest-palindromic-subsequence-ii/)
+8. [Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/)
+9. [Maximum Product of the Length of Two Palindromic Subsequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/)
+10. [Minimum Number of Moves to Make Palindrome](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/)
+11. 
 
 
 ## DP on Stocks(5)

@@ -1,4 +1,7 @@
 // Approach 1: T.C -> O(n * m), S.C -> O(n * m)
+// Diff btw lcs and lcsub
+// lcsub -> T[i][j] - is the longest common substring which **ENDS at SUFFIX** a[0,i] and b[0,j]
+// lcs -> S[i][j] - longest common subsequence UP TO w1[0,i] and w2[0,j]
 int lcs(string &str1, string &str2) {
     int n = str1.length(), m = str2.length();
     vector<vector<int>> dp(n + 1, vector<int> (m + 1, 0));
