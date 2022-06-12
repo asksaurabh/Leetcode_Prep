@@ -57,7 +57,7 @@
 4. [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Solution](https://leetcode.com/problems/maximum-length-of-repeated-subarray/discuss/1830389/C%2B%2B-or-All-possible-Solutions)
 5. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Solution](https://leetcode.com/problems/longest-palindromic-subsequence/discuss/1830520/C%2B%2B-or-All-possible-Solutions)
 6. [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [Solution](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/discuss/1831052/C%2B%2B-or-All-possible-Solutions)
-7. [Minimum number of deletions to make a string Palindrome](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions4610/1/)
+7. [Minimum number of deletions to make a string Palindrome](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions4610/1/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/4_7_min_del_to_make_pal.cpp)
 8. [Minimum Insertions/Deletions to Convert String A to String B](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1#) | [Solution](#)
 9. [Find the length of Shortest Common Supersequence](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1#) | [Solution](#)
 10. [Print Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | [Solution](https://leetcode.com/problems/shortest-common-supersequence/discuss/1831185/C%2B%2B-or-LCS-variation)
@@ -80,7 +80,9 @@
 8. [Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/)
 9. [Maximum Product of the Length of Two Palindromic Subsequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/)
 10. [Minimum Number of Moves to Make Palindrome](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/)
-11. 
+11. [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
+12. [Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings/)
+13. [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
 
 
 ## DP on Stocks(5)
