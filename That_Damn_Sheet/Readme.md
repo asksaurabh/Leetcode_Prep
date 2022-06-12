@@ -160,7 +160,7 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 1. [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)
 2. [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)
 3. [amount-of-new-area-painted-each-day](https://leetcode.com/problems/amount-of-new-area-painted-each-day/)
-4. 
+4. [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [DO IT ASAP]
 
 ## LinkedList(11)
 
