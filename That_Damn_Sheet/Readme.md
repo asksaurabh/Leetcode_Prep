@@ -148,7 +148,7 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 4. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Solution](https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/1810049/C%2B%2B-or-All-possible-Solutions)
 5. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](https://leetcode.com/problems/sliding-window-maximum/discuss/1810181/C%2B%2B-or-All-possible-Solutions)
 6. [Longest sub-array having sum k (Having non negative elements)] | [Solution](#)
-7. [Longest sub-array having sum k (Having integers)](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | [Solution](#)
+7. [Longest sub-array having sum k (Having integers)](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/That_Damn_Sheet/Codes/10_7_longest_sub_sum_k.cpp)
 8. [Longest K unique characters substring](https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1/#) | [Solution](#)
 9. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/1770062/C%2B%2B-or-Neat-Solutions)
 10. [Pick Toys] | [Solution](#)
@@ -160,7 +160,10 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 1. [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)
 2. [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)
 3. [amount-of-new-area-painted-each-day](https://leetcode.com/problems/amount-of-new-area-painted-each-day/)
-4. [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [DO IT ASAP]
+4. [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/discuss/2144090/C%2B%2B-or-Solution)
+5. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+6. [Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number/)
+7. [Removing Minimum Number of Magic Beans](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/)
 
 ## LinkedList(11)
 
