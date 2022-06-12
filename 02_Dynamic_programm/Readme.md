@@ -58,11 +58,11 @@
 5. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Solution](https://leetcode.com/problems/longest-palindromic-subsequence/discuss/1830520/C%2B%2B-or-All-possible-Solutions)
 6. [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [Solution](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/discuss/1831052/C%2B%2B-or-All-possible-Solutions)
 7. [Minimum number of deletions to make a string Palindrome](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions4610/1/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/4_7_min_del_to_make_pal.cpp)
-8. [Minimum Insertions/Deletions to Convert String A to String B](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1#) | [Solution](#)
-9. [Find the length of Shortest Common Supersequence](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1#) | [Solution](#)
+8. [Minimum Insertions/Deletions to Convert String A to String B](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1#) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/4_8_min_opr_from_x_to_y.cpp)
+9. [Find the length of Shortest Common Supersequence](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1#) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/4_9_length_shortest_super.cpp)
 10. [Print Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | [Solution](https://leetcode.com/problems/shortest-common-supersequence/discuss/1831185/C%2B%2B-or-LCS-variation)
 11. [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Solution](https://leetcode.com/problems/delete-operation-for-two-strings/discuss/1831211/C%2B%2B-or-All-possible-Solutions)
-12. [Longest Repeating Subsequence](https://www.codingninjas.com/codestudio/problems/longest-repeating-subsequence_1118110) | [Solution](#)
+12. [Longest Repeating Subsequence](https://www.codingninjas.com/codestudio/problems/longest-repeating-subsequence_1118110) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/4_12_longest_repeating.cpp)
 13. [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Solution](https://leetcode.com/problems/distinct-subsequences/discuss/1837566/C%2B%2B-or-All-possible-Solutions)
 14. [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Solution](https://leetcode.com/problems/edit-distance/discuss/1841411/C%2B%2B-or-All-possible-Solutions)
 15. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Solution](https://leetcode.com/problems/wildcard-matching/discuss/1852783/C%2B%2B-or-All-possible-Solutions)
@@ -83,7 +83,11 @@
 11. [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
 12. [Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings/)
 13. [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
-
+14. [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)
+15. [Number of Unique Good Subsequences](https://leetcode.com/problems/number-of-unique-good-subsequences/)
+16. [one-edit-distance](https://leetcode.com/problems/one-edit-distance/)
+17. [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)
+18. [Minimum White Tiles After Covering With Carpets](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/)
 
 ## DP on Stocks(5)
 
