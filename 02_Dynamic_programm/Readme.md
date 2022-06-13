@@ -97,7 +97,7 @@
 25. [Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/)
 26. [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)
 27. [Accounts Merge](https://leetcode.com/problems/accounts-merge/)
-28. [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
+28. [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [Solution](https://leetcode.com/problems/consecutive-characters/discuss/2146353/C%2B%2B-or-Solution)
 29. [The Score of Students Solving Math Expression](https://leetcode.com/problems/the-score-of-students-solving-math-expression/)
 
 ## DP on Stocks(5)
