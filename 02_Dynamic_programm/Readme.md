@@ -89,6 +89,16 @@
 17. [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)
 18. [Minimum White Tiles After Covering With Carpets](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/)
 19. [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+20. [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
+21. [palindrome-permutation](https://leetcode.com/problems/palindrome-permutation/)
+22. [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)
+23. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Solution](https://leetcode.com/problems/palindromic-substrings/discuss/2145515/C%2B%2B-or-Solution)
+24. [Push Dominoes](https://leetcode.com/problems/push-dominoes/)
+25. [Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/)
+26. [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)
+27. [Accounts Merge](https://leetcode.com/problems/accounts-merge/)
+28. [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)
+29. [The Score of Students Solving Math Expression](https://leetcode.com/problems/the-score-of-students-solving-math-expression/)
 
 ## DP on Stocks(5)
 
