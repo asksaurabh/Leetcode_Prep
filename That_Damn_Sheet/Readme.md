@@ -85,14 +85,14 @@
 
 ## Recursion AND BackTracking(3)
 
-[CLICK ME](https://github.com/asksaurabh/Leetcode_Prep/tree/main/03_Recursion_And_BackTracking)
+[CLICK ME](https://github.com/asksaurabh/Leetcode_Prep/blob/main/03_Recursion_And_BackTracking/Readme.md)
 
 ## Dynamic Programming(4)
 
-[CLICK ME](https://github.com/asksaurabh/Leetcode_Prep/tree/main/02_Dynamic_programm)
+[CLICK ME](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/Readme.md)
 
 ## Binary Search(5)
-Note: Find a search space which is monotonic in order to apply tis algorithm.
+Note: Find a search space which is monotonic in order to apply this algorithm.
 
 1. [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](https://leetcode.com/problems/binary-search/discuss/1782878/C%2B%2B-or-All-Possible-Solutions)
 2. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/1783896/C%2B%2B-or-Easy-Solution)
@@ -127,11 +127,11 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 
 ## Bit Manipulation(7)
 
-[CLICK ME](https://github.com/asksaurabh/Leetcode_Prep/tree/main/01_Bit_Manipulation)
+[CLICK ME](https://github.com/asksaurabh/Leetcode_Prep/blob/main/01_Bit_Manipulation/Readme.md)
 
 ## Graph(8)
 
-[CLICK ME](https://github.com/asksaurabh/Leetcode_Prep/tree/main/05_Graphs) 
+[CLICK ME](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Readme.md) 
 
 ## Heaps(9)
 1. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](https://leetcode.com/problems/kth-largest-element-in-an-array/discuss/1806856/C%2B%2B-or-All-possible-Solutions)
@@ -234,7 +234,7 @@ Note: Find a search space which is monotonic in order to apply tis algorithm.
 
 ## Binary Trees(13)
 
-[CLICK ME](https://github.com/asksaurabh/Leetcode_Prep/tree/main/04_Binary_Trees)
+[CLICK ME](https://github.com/asksaurabh/Leetcode_Prep/blob/main/04_Binary_Trees/Readme.md)
 
 ## LATER
 1. [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
