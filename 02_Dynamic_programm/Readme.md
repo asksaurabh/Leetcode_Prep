@@ -123,6 +123,16 @@
 10. [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | [Solution](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/discuss/1943792/C%2B%2B-or-Solution)
 11. [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Solution](https://leetcode.com/problems/longest-continuous-increasing-subsequence/discuss/1947054/C%2B%2B-or-Solution)
 
+## Extras
+1. [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
+2. [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
+3. [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)
+4. [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)
+5. [Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/)
+6. [largest-unique-number](https://leetcode.com/problems/largest-unique-number/)
+7. [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/)
+8. [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)
+
 ## DP on Partitions(7)
 
 1. [MCM](https://www.codingninjas.com/codestudio/problems/matrix-chain-multiplication_975344) | [Solution](#)
