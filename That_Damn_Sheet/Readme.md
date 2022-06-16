@@ -225,6 +225,8 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 33. [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/)
 34. [Remove Element](https://leetcode.com/problems/remove-element/)
 35. [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+36. [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
+37. [sort-linked-list-already-sorted-using-absolute-values](https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values/)
 
 
 ## Stacks and Queues(12)

@@ -1,4 +1,5 @@
 # GRAPHS
+[All Algorithms for quick reference](https://github.com/asksaurabh/Algorithms/tree/main/7.graphsTUF)
 
 1. [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](https://leetcode.com/problems/clone-graph/discuss/1796518/C%2B%2B-or-All-possible-solutions)
 2. [DFS Traversal](https://www.codingninjas.com/codestudio/problems/dfs-traversal_630462) | [Solution](#)
