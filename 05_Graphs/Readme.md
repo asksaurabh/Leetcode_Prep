@@ -19,3 +19,9 @@
 16. [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Solution](https://leetcode.com/problems/keys-and-rooms/discuss/1870904/C%2B%2B-or-All-possible-Solutions)
 17. [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Solution](https://leetcode.com/problems/number-of-provinces/discuss/1871083/C%2B%2B-or-All-possible-Solutions)
 18. 
+
+
+## EXTRAS
+1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
+2. [clone-n-ary-tree](https://leetcode.com/problems/clone-n-ary-tree/)
+3. 
