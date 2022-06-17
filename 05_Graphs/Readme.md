@@ -19,7 +19,7 @@
 16. [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Solution](https://leetcode.com/problems/keys-and-rooms/discuss/1870904/C%2B%2B-or-All-possible-Solutions)
 17. [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Solution](https://leetcode.com/problems/number-of-provinces/discuss/1871083/C%2B%2B-or-All-possible-Solutions)
 18. [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)
-
+19. [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
@@ -29,4 +29,6 @@
 5. [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)
 6. [graph-valid-tree](https://leetcode.com/problems/graph-valid-tree/)
 7. [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
-8. 
+8. [alien-dictionary](https://leetcode.com/problems/alien-dictionary/)
+9. [sequence-reconstruction](https://leetcode.com/problems/sequence-reconstruction/)
+10. [parallel-courses](https://leetcode.com/problems/parallel-courses/)
