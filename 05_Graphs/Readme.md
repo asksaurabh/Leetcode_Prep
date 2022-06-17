@@ -18,7 +18,7 @@
 15. [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | [Solution](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/discuss/1870754/C%2B%2B-or-All-possible-Solutions)
 16. [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Solution](https://leetcode.com/problems/keys-and-rooms/discuss/1870904/C%2B%2B-or-All-possible-Solutions)
 17. [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Solution](https://leetcode.com/problems/number-of-provinces/discuss/1871083/C%2B%2B-or-All-possible-Solutions)
-18. 
+18. [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)
 
 
 ## EXTRAS
@@ -27,4 +27,6 @@
 3. [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
 4. [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)
 5. [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)
-6. 
+6. [graph-valid-tree](https://leetcode.com/problems/graph-valid-tree/)
+7. [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
+8. 
