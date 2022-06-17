@@ -24,4 +24,7 @@
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
 2. [clone-n-ary-tree](https://leetcode.com/problems/clone-n-ary-tree/)
-3. 
+3. [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+4. [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)
+5. [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)
+6. 
