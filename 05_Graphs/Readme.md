@@ -7,7 +7,7 @@
 4. [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1#) | [BFS of Graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1#)
 5. [Cycle Detection In Undirected Graph - DFS/BFS](https://www.codingninjas.com/codestudio/problems/1062670) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Codes/05_cycle_detection.cpp)
 6. [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Solution](https://leetcode.com/problems/is-graph-bipartite/discuss/1857339/C%2B%2B-or-All-possible-Solutions)
-7. [Detect Cycle In A Directed Graph - DFS/BFS](https://www.codingninjas.com/codestudio/problems/1062626) | [Solution](#)
+7. [Detect Cycle In A Directed Graph - DFS/BFS](https://www.codingninjas.com/codestudio/problems/1062626) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Codes/07_detect_cycle_in_directed_graph.cpp)
 8. [Topological Sort - DFS/BFS](https://www.codingninjas.com/codestudio/problems/982938)
 9. [Shortest path from 1 to n](https://practice.geeksforgeeks.org/problems/shortest-path-from-1-to-n0156/1/#)
 10. [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Solution](https://leetcode.com/problems/course-schedule/discuss/1863659/C%2B%2B-or-All-possible-Solutions)
