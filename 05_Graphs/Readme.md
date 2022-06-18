@@ -39,4 +39,8 @@
 14. [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)
 15. [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
 16. [tree-diameter](https://leetcode.com/problems/tree-diameter/)
-17. []
+17. [graph-valid-tree](https://leetcode.com/problems/graph-valid-tree/)
+18. [number-of-connected-components-in-an-undirected-graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+19. [sentence-similarity](https://leetcode.com/problems/sentence-similarity/)
+20. [sentence-similarity-ii](https://leetcode.com/problems/sentence-similarity-ii/)
+21. [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/)
