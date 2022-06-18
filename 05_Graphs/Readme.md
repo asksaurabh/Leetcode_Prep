@@ -20,6 +20,7 @@
 17. [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Solution](https://leetcode.com/problems/number-of-provinces/discuss/1871083/C%2B%2B-or-All-possible-Solutions)
 18. [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)
 19. [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)
+20. [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
@@ -34,3 +35,8 @@
 10. [parallel-courses](https://leetcode.com/problems/parallel-courses/)
 11. [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/)
 12. [paths-in-maze-that-lead-to-same-room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/)
+13. [find-the-celebrity](https://leetcode.com/problems/find-the-celebrity/)
+14. [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)
+15. [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
+16. [tree-diameter](https://leetcode.com/problems/tree-diameter/)
+17. []
