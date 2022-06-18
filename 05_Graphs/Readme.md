@@ -32,3 +32,5 @@
 8. [alien-dictionary](https://leetcode.com/problems/alien-dictionary/)
 9. [sequence-reconstruction](https://leetcode.com/problems/sequence-reconstruction/)
 10. [parallel-courses](https://leetcode.com/problems/parallel-courses/)
+11. [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/)
+12. [paths-in-maze-that-lead-to-same-room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/)
