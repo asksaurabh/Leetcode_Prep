@@ -21,6 +21,7 @@
 18. [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)
 19. [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)
 20. [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)
+21. [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) | [Solution](https://leetcode.com/problems/maximal-network-rank/discuss/1550591/C%2B%2B-or-Various-Approaches)
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
@@ -44,3 +45,6 @@
 19. [sentence-similarity](https://leetcode.com/problems/sentence-similarity/)
 20. [sentence-similarity-ii](https://leetcode.com/problems/sentence-similarity-ii/)
 21. [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/)
+22. [Strange Printer II](https://leetcode.com/problems/strange-printer-ii/)
+23. [shortest-path-in-a-hidden-grid](https://leetcode.com/problems/shortest-path-in-a-hidden-grid/)
+24. [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)
