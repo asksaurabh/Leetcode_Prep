@@ -25,6 +25,7 @@
 22. [Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/) | [Solution](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/discuss/1564759/C%2B%2B-or-Various-Solutions)
 23. [Snakes and Ladders Game](https://docs.google.com/document/d/1iaSgJGZvu2BrqQxnOCGU5GyaLTta1iO9D-33weDh8ak/edit?usp=sharing) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Codes/23_snakes_and_ladders.cpp)
 24. [Message Route](https://cses.fi/problemset/task/1667/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Codes/24_message_routes.cpp)
+25. [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Solution](https://leetcode.com/problems/word-ladder/discuss/2171516/C%2B%2B-or-Solution)
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
@@ -51,3 +52,5 @@
 22. [Strange Printer II](https://leetcode.com/problems/strange-printer-ii/)
 23. [shortest-path-in-a-hidden-grid](https://leetcode.com/problems/shortest-path-in-a-hidden-grid/)
 24. [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)
+25. [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
+26. [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
