@@ -23,7 +23,7 @@
 20. [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)
 21. [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) | [Solution](https://leetcode.com/problems/maximal-network-rank/discuss/1550591/C%2B%2B-or-Various-Approaches)
 22. [Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/) | [Solution](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/discuss/1564759/C%2B%2B-or-Various-Solutions)
-23. [Snakes and Ladders Game](https://docs.google.com/document/d/1iaSgJGZvu2BrqQxnOCGU5GyaLTta1iO9D-33weDh8ak/edit?usp=sharing) | [Solution]()
+23. [Snakes and Ladders Game](https://docs.google.com/document/d/1iaSgJGZvu2BrqQxnOCGU5GyaLTta1iO9D-33weDh8ak/edit?usp=sharing) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Codes/23_snakes_and_ladders.cpp)
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
