@@ -26,6 +26,7 @@
 23. [Snakes and Ladders Game](https://docs.google.com/document/d/1iaSgJGZvu2BrqQxnOCGU5GyaLTta1iO9D-33weDh8ak/edit?usp=sharing) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Codes/23_snakes_and_ladders.cpp)
 24. [Message Route](https://cses.fi/problemset/task/1667/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Codes/24_message_routes.cpp)
 25. [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Solution](https://leetcode.com/problems/word-ladder/discuss/2171516/C%2B%2B-or-Solution)
+26. [Valid BFS?](https://codeforces.com/problemset/problem/1037/D) | [Solution]()
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
