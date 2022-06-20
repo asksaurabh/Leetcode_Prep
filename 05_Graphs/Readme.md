@@ -27,6 +27,7 @@
 24. [Message Route](https://cses.fi/problemset/task/1667/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Codes/24_message_routes.cpp)
 25. [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Solution](https://leetcode.com/problems/word-ladder/discuss/2171516/C%2B%2B-or-Solution)
 26. [Valid BFS?](https://codeforces.com/problemset/problem/1037/D) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Codes/26_Valid_bfs.cpp)
+27. [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Solution](https://leetcode.com/problems/max-area-of-island/discuss/2174933/C%2B%2B-or-Solution)
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
@@ -55,3 +56,7 @@
 24. [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)
 25. [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
 26. [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
+27. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+28. [Island Perimeter](https://leetcode.com/problems/island-perimeter/)
+29. [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)
+30. [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/)
