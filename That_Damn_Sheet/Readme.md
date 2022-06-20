@@ -64,6 +64,8 @@
 61. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Solution](https://leetcode.com/problems/maximum-product-of-word-lengths/discuss/2088632/C%2B%2B-or-Solution)
 62. [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | [Solution](https://leetcode.com/problems/hand-of-straights/discuss/2094389/C%2B%2B-or-Solution)
 63. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Solution](https://leetcode.com/problems/transpose-matrix/discuss/2101712/C%2B%2B-or-Solution)
+64. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Solution](https://leetcode.com/problems/number-of-good-pairs/discuss/1437342/C%2B%2B-or-Solution)
+65. [Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/)
 
 ## Greedy Algo(2)
 1. [N meetings in One Room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#) | [Solution](#)
