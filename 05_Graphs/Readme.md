@@ -29,6 +29,7 @@
 26. [Valid BFS?](https://codeforces.com/problemset/problem/1037/D) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Codes/26_Valid_bfs.cpp)
 27. [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Solution](https://leetcode.com/problems/max-area-of-island/discuss/2174933/C%2B%2B-or-Solution)
 28. [Astronaut Pairs](https://www.hackerrank.com/contests/alcoding-summer-challenge/challenges/astronaut-pairs)
+29. [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [Solution](https://leetcode.com/problems/detect-cycles-in-2d-grid/discuss/2178284/C%2B%2B-or-Solution)
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
@@ -61,3 +62,6 @@
 28. [Island Perimeter](https://leetcode.com/problems/island-perimeter/)
 29. [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)
 30. [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/)
+31. [Concatenated Words](https://leetcode.com/problems/concatenated-words/)
+32. [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)
+33. [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
