@@ -30,6 +30,7 @@
 27. [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Solution](https://leetcode.com/problems/max-area-of-island/discuss/2174933/C%2B%2B-or-Solution)
 28. [Astronaut Pairs](https://www.hackerrank.com/contests/alcoding-summer-challenge/challenges/astronaut-pairs)
 29. [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [Solution](https://leetcode.com/problems/detect-cycles-in-2d-grid/discuss/2178284/C%2B%2B-or-Solution)
+30. [Shortest cycle in an undirected unweighted graph](https://www.geeksforgeeks.org/shortest-cycle-in-an-undirected-unweighted-graph/)
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
