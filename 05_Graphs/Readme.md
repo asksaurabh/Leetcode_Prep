@@ -28,6 +28,7 @@
 25. [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Solution](https://leetcode.com/problems/word-ladder/discuss/2171516/C%2B%2B-or-Solution)
 26. [Valid BFS?](https://codeforces.com/problemset/problem/1037/D) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Codes/26_Valid_bfs.cpp)
 27. [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Solution](https://leetcode.com/problems/max-area-of-island/discuss/2174933/C%2B%2B-or-Solution)
+28. [Astronaut Pairs](https://www.hackerrank.com/contests/alcoding-summer-challenge/challenges/astronaut-pairs)
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
