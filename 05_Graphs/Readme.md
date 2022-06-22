@@ -33,6 +33,7 @@
 30. [Shortest cycle in an undirected unweighted graph](https://www.geeksforgeeks.org/shortest-cycle-in-an-undirected-unweighted-graph/)
 31. [Detecting an Odd Length Cycle](https://binarysearch.com/problems/Detecting-an-Odd-Length-Cycle)
 32. [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [Solution](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/discuss/2183693/C%2B%2B-or-Solution)
+33. [Game Routes](https://cses.fi/problemset/task/1681/) | [Solution]()
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
