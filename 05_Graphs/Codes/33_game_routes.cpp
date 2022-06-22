@@ -50,3 +50,59 @@ int main() {
 	cout << dp[n];
 	return 0;
 }
+
+// Approach 2: Another Way
+#include<bits/stdc++.h>
+using namespace std;
+#define mod 1000000007
+#define int long long
+
+void solve() {
+
+	int n, m; cin >> n >> m;
+
+	vector <vector <int>> adj (n + 1, vector <int>());
+	vector <int> indeg (n + 1, 0);
+	for (int i = 0; i < m; i++) {
+		int x, y; cin >> x >> y;
+		adj[x].push_back (y);
+		indeg[y]++;
+	}
+
+	// Remove the dependency as well as count only those paths which starts with one.
+	queue <int> q;
+	for (int i = 1; i <= n; i++)
+		if (indeg[i] == 0) q.push (i);
+
+	int ans = 0;
+	vector <int> dp (n + 1, 0);
+	dp[1] = 1;
+
+	while (q.size()) {
+		int node = q.front (); q.pop ();
+
+		for (auto nbr : adj[node]) {
+			dp[nbr] = (dp[nbr] + dp[node]) % mod;
+			indeg[nbr]--;
+			if (indeg[nbr] == 0)
+				q.push (nbr);
+		}
+
+		if (indeg[n] == 0)
+			break;
+	}
+
+	cout << dp[n] << endl;
+}
+
+
+int main() {
+
+	int t = 1;
+	// cin >> t;
+	while (t--) {
+		solve();
+	}
+
+	return 0;
+}
