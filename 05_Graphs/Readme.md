@@ -68,3 +68,6 @@
 31. [Concatenated Words](https://leetcode.com/problems/concatenated-words/)
 32. [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)
 33. [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
+34. [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
+35. [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
+36. [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)
