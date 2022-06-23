@@ -39,6 +39,7 @@
 36. [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Solution](https://leetcode.com/problems/redundant-connection/discuss/2186469/C%2B%2B-or-Solution)
 37. [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | [Solution](https://leetcode.com/problems/count-servers-that-communicate/discuss/2186596/C%2B%2B-or-Solution)
 38. [Communication Towers](https://binarysearch.com/problems/Communication-Towers) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Codes/38_communication_towers.cpp)
+39. [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [Solution](https://leetcode.com/problems/number-of-operations-to-make-network-connected/discuss/2186987/C%2B%2B-or-Solution)
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
@@ -82,3 +83,5 @@
 39. [Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/)
 40. [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/)
 41. [RLE Iterator](https://leetcode.com/problems/rle-iterator/)
+42. [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)
+43. [Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/)
