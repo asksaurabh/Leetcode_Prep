@@ -37,6 +37,8 @@
 34. [Union-Find](https://practice.geeksforgeeks.org/problems/union-find/1/#) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Codes/34_union_find.cpp)
 35. [Forest Detection](https://binarysearch.com/problems/Forest-Detection) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Codes/35_forest_detection.cpp)
 36. [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Solution](https://leetcode.com/problems/redundant-connection/discuss/2186469/C%2B%2B-or-Solution)
+37. [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | [Solution](https://leetcode.com/problems/count-servers-that-communicate/discuss/2186596/C%2B%2B-or-Solution)
+38. []
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
@@ -78,3 +80,5 @@
 37. [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)
 38. [Accounts Merge](https://leetcode.com/problems/accounts-merge/)
 39. [Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/)
+40. [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/)
+41. [RLE Iterator](https://leetcode.com/problems/rle-iterator/)
