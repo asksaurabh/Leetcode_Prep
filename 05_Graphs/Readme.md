@@ -34,6 +34,7 @@
 31. [Detecting an Odd Length Cycle](https://binarysearch.com/problems/Detecting-an-Odd-Length-Cycle)
 32. [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [Solution](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/discuss/2183693/C%2B%2B-or-Solution)
 33. [Game Routes](https://cses.fi/problemset/task/1681/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Codes/33_game_routes.cpp)
+34. [Union-Find](https://practice.geeksforgeeks.org/problems/union-find/1/#) | [Solution](#)
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
