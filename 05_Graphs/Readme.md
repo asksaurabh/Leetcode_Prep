@@ -40,6 +40,7 @@
 37. [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | [Solution](https://leetcode.com/problems/count-servers-that-communicate/discuss/2186596/C%2B%2B-or-Solution)
 38. [Communication Towers](https://binarysearch.com/problems/Communication-Towers) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Codes/38_communication_towers.cpp)
 39. [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [Solution](https://leetcode.com/problems/number-of-operations-to-make-network-connected/discuss/2186987/C%2B%2B-or-Solution)
+40. [Special paths](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/special-path-b3ac37d0/)
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
