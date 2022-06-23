@@ -38,7 +38,7 @@
 35. [Forest Detection](https://binarysearch.com/problems/Forest-Detection) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Codes/35_forest_detection.cpp)
 36. [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Solution](https://leetcode.com/problems/redundant-connection/discuss/2186469/C%2B%2B-or-Solution)
 37. [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | [Solution](https://leetcode.com/problems/count-servers-that-communicate/discuss/2186596/C%2B%2B-or-Solution)
-38. [Communication Towers](https://binarysearch.com/problems/Communication-Towers) | [Solution]()
+38. [Communication Towers](https://binarysearch.com/problems/Communication-Towers) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Codes/38_communication_towers.cpp)
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
