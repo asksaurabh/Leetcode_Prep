@@ -36,6 +36,7 @@
 33. [Game Routes](https://cses.fi/problemset/task/1681/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Codes/33_game_routes.cpp)
 34. [Union-Find](https://practice.geeksforgeeks.org/problems/union-find/1/#) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Codes/34_union_find.cpp)
 35. [Forest Detection](https://binarysearch.com/problems/Forest-Detection) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/05_Graphs/Codes/35_forest_detection.cpp)
+36. [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Solution](https://leetcode.com/problems/redundant-connection/discuss/2186469/C%2B%2B-or-Solution)
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
@@ -74,3 +75,6 @@
 34. [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
 35. [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
 36. [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)
+37. [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)
+38. [Accounts Merge](https://leetcode.com/problems/accounts-merge/)
+39. [Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/)
