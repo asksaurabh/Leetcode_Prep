@@ -122,7 +122,9 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 1. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 2. [Plates Between Candles](https://leetcode.com/problems/plates-between-candles/)
 3. [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)
-4. 
+4. [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
+5. [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/)
+6. [Count Number of Special Subsequences](https://leetcode.com/problems/count-number-of-special-subsequences/)
 
 ## Trie(6)
 1. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](https://leetcode.com/problems/implement-trie-prefix-tree/discuss/1788976/C%2B%2B-or-Modular-Code)
