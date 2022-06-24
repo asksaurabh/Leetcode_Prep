@@ -102,7 +102,7 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 4. [Number of times sorted array is rotated](https://practice.geeksforgeeks.org/problems/rotation4723/1/#) | [Solution](#)
 5. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/discuss/1784005/C%2B%2B-or-Binary-Search)
 6. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/1785348/C%2B%2B-or-Neat-Solution)
-7. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [TO DO]
+7. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/discuss/2191307/C%2B%2B-or-Solution)
 8. [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [TO DO]
 9. [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution](https://leetcode.com/problems/single-element-in-a-sorted-array/discuss/1785751/C%2B%2B-or-All-possible-Solutions)
 10. [Find in Nearly Sorted Array](https://www.geeksforgeeks.org/search-almost-sorted-array/) | [Solution](#)
@@ -117,6 +117,12 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 19. [Matrix Median](https://www.codingninjas.com/codestudio/problems/873378) | [Solution](#)
 20. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/1761280/C%2B%2B-or-All-Neat-Solutions)
 21. 
+
+## EXTRAS
+1. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+2. [Plates Between Candles](https://leetcode.com/problems/plates-between-candles/)
+3. [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)
+4. 
 
 ## Trie(6)
 1. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](https://leetcode.com/problems/implement-trie-prefix-tree/discuss/1788976/C%2B%2B-or-Modular-Code)
