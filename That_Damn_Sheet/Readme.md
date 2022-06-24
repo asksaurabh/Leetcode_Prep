@@ -98,8 +98,8 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 
 1. [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](https://leetcode.com/problems/binary-search/discuss/1782878/C%2B%2B-or-All-Possible-Solutions)
 2. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/1783896/C%2B%2B-or-Easy-Solution)
-3. [Number of occurrence](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1/) | [Solution](#)
-4. [Number of times sorted array is rotated](https://practice.geeksforgeeks.org/problems/rotation4723/1/#) | [Solution](#)
+3. [Number of occurrence](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/That_Damn_Sheet/Codes/5_3_number_of_occ.cpp)
+4. [Number of times sorted array is rotated](https://practice.geeksforgeeks.org/problems/rotation4723/1/#) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/That_Damn_Sheet/Codes/5_4_number_of_rot.cpp)
 5. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/discuss/1784005/C%2B%2B-or-Binary-Search)
 6. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/1785348/C%2B%2B-or-Neat-Solution)
 7. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/discuss/2191307/C%2B%2B-or-Solution)
