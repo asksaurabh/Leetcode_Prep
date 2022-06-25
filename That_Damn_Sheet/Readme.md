@@ -103,7 +103,7 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 5. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/discuss/1784005/C%2B%2B-or-Binary-Search)
 6. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/1785348/C%2B%2B-or-Neat-Solution)
 7. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/discuss/2191307/C%2B%2B-or-Solution)
-8. [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [TO DO]
+8. [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/discuss/2195161/C%2B%2B-or-Solution)
 9. [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution](https://leetcode.com/problems/single-element-in-a-sorted-array/discuss/1785751/C%2B%2B-or-All-possible-Solutions)
 10. [Find in Nearly Sorted Array](https://www.geeksforgeeks.org/search-almost-sorted-array/) | [Solution](#)
 11. [Floor of number in sorted array](https://www.codingninjas.com/codestudio/problems/find-floor-value_920447) | [Solution](#)
