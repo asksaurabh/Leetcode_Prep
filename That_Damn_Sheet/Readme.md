@@ -264,12 +264,17 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 1. [Sort Array](https://leetcode.com/problems/sort-an-array/) | [Solution](https://leetcode.com/problems/sort-an-array/discuss/2200211/C%2B%2B-or-Solution)
 2. [Sort List](https://leetcode.com/problems/sort-list/) | [Solution](https://leetcode.com/problems/sort-list/discuss/1670569/C%2B%2B-or-Classic-Merge-Sort)
 3. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](https://leetcode.com/problems/merge-k-sorted-lists/discuss/1964042/C%2B%2B-or-Solution)
-4. [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
-5. 
+4. [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Solution](https://leetcode.com/problems/count-of-smaller-numbers-after-self/discuss/2203045/C%2B%2B-or-Solution)
+5. [Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)
+6. [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | [Solution](https://leetcode.com/problems/reverse-pairs/discuss/1764689/C%2B%2B-or-All-Neat-Solutions)
+7. [Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/)
 
 ## Extras
 1. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 2. [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)
+3. [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)
+4. [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
+5. [Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/)
 
 ## LATER
 1. [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
