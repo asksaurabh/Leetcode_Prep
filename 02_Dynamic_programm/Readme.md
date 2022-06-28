@@ -1,7 +1,7 @@
 # Dynamic Programming
 
 ## 1-D DP(1)
-1. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+1. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Solution](https://leetcode.com/problems/fibonacci-number/discuss/1490906/C%2B%2B-or-Various-Solutions)
 2. [N-K Ladder Problem](https://www.geeksforgeeks.org/number-of-ways-to-reach-nth-floor-by-taking-at-most-k-leaps/) | [Solution](#)
 3. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 4. [Frog Jump](https://www.codingninjas.com/codestudio/problems/frog-jump_3621012)
@@ -18,7 +18,10 @@
 15. [Jump Game VI](https://leetcode.com/problems/jump-game-vi/)
 16. [Jump Game VII](https://leetcode.com/problems/jump-game-vii/)
 17. [Open the Lock](https://leetcode.com/problems/open-the-lock/) | [Solution](https://leetcode.com/problems/open-the-lock/discuss/2086848/C%2B%2B-or-Solution)
-18. []()
+
+## Follow-Ups
+1. [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/)
+2. [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)
 
 ## DP On Grids(2)
 1. [Ninja Training](https://www.codingninjas.com/codestudio/problems/ninja-s-training_3621003)
