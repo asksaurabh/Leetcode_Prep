@@ -36,7 +36,7 @@
 ## DP On Grids(2)
 1. [Ninja Training](https://www.codingninjas.com/codestudio/problems/ninja-s-training_3621003) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/2_1_Ninja_Training.cpp)
 2. [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/2_2_Vacation.cpp)
-3. [Unique Paths](https://leetcode.com/problems/unique-paths/)
+3. [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](https://leetcode.com/problems/unique-paths/discuss/1733841/C%2B%2B-or-All-possible-solutions)
 4. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Solution](https://leetcode.com/problems/unique-paths-ii/discuss/1734408/C%2B%2B-or-All-possible-solutions)
 5. [Maze Obstacles](https://www.codingninjas.com/codestudio/problems/maze-obstacles_977241)
 6. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Solution](https://leetcode.com/problems/minimum-path-sum/discuss/1734512/C%2B%2B-or-All-possible-solutions)
@@ -44,6 +44,11 @@
 8. [Max Path Sum](https://www.codingninjas.com/codestudio/problems/maximum-path-sum-in-the-matrix_797998) | [Solution](#)
 9. [Min Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [Solution](https://leetcode.com/problems/minimum-falling-path-sum/discuss/1736061/C%2B%2B-or-All-possible-Solution)
 10. [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | [Solution](https://leetcode.com/problems/cherry-pickup-ii/discuss/1736325/C%2B%2B-or-All-possible-Solutions)
+
+## EXTRAS
+1. [Dungeon Game](https://leetcode.com/problems/dungeon-game/)
+2. [Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/)
+3. [Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/)
 
 ## DP on Subsequences/Subsets & Target(3)
 
