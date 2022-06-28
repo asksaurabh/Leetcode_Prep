@@ -35,7 +35,7 @@
 
 ## DP On Grids(2)
 1. [Ninja Training](https://www.codingninjas.com/codestudio/problems/ninja-s-training_3621003) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/2_1_Ninja_Training.cpp)
-2. [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)
+2. [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | [Solution]()
 3. [Unique Paths](https://leetcode.com/problems/unique-paths/)
 4. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Solution](https://leetcode.com/problems/unique-paths-ii/discuss/1734408/C%2B%2B-or-All-possible-solutions)
 5. [Maze Obstacles](https://www.codingninjas.com/codestudio/problems/maze-obstacles_977241)
