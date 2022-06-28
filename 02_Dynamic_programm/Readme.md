@@ -7,7 +7,7 @@
 4. [Frog Jump](https://www.codingninjas.com/codestudio/problems/frog-jump_3621012) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/1_4_frog_jump.cpp)
 5. [Frog Jump solution](#)
 6. [Frog jump - At most K steps](https://atcoder.jp/contests/dp/tasks/dp_b) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/1_5_frog_atmost_K.cpp)
-7. [House Robber](https://leetcode.com/problems/house-robber/)
+7. [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](https://leetcode.com/problems/house-robber/discuss/1723873/C%2B%2B-or-All-possible-solutions)
 8. [Max Sum without Adjacents](https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1/)
 9. [House Robber 2](https://leetcode.com/problems/house-robber-ii/)
 10. [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](https://leetcode.com/problems/jump-game/discuss/2076172/C%2B%2B-or-Solution)
