@@ -8,7 +8,7 @@
 5. [Frog Jump solution](#)
 6. [Frog jump - At most K steps](https://atcoder.jp/contests/dp/tasks/dp_b) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/1_5_frog_atmost_K.cpp)
 7. [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](https://leetcode.com/problems/house-robber/discuss/1723873/C%2B%2B-or-All-possible-solutions)
-8. [Max Sum without Adjacents](https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1/)
+8. [Max Sum without Adjacents](https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1/) | [Solution]()
 9. [House Robber 2](https://leetcode.com/problems/house-robber-ii/)
 10. [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](https://leetcode.com/problems/jump-game/discuss/2076172/C%2B%2B-or-Solution)
 11. [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Solution](https://leetcode.com/problems/jump-game-ii/discuss/2086194/C%2B%2B-or-Solutions)
@@ -25,6 +25,14 @@
 3. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 4. [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
 5. [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/)
+6. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+7. [House Robber III](https://leetcode.com/problems/house-robber-iii/)
+8. [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)
+9. [Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
+10. [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)
+11. [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/)
+12. []
+
 
 ## DP On Grids(2)
 1. [Ninja Training](https://www.codingninjas.com/codestudio/problems/ninja-s-training_3621003)
