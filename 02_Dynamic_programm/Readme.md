@@ -3,7 +3,7 @@
 ## 1-D DP(1)
 1. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Solution](https://leetcode.com/problems/fibonacci-number/discuss/1490906/C%2B%2B-or-Various-Solutions)
 2. [N-K Ladder Problem](https://www.geeksforgeeks.org/number-of-ways-to-reach-nth-floor-by-taking-at-most-k-leaps/) | [Solution](#)
-3. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+3. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://leetcode.com/problems/climbing-stairs/discuss/1722907/C%2B%2B-or-All-possible-solutions)
 4. [Frog Jump](https://www.codingninjas.com/codestudio/problems/frog-jump_3621012)
 5. [Frog Jump solution](#)
 6. [Frog jump - At most K steps](https://atcoder.jp/contests/dp/tasks/dp_b)
@@ -22,6 +22,9 @@
 ## Follow-Ups
 1. [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/)
 2. [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)
+3. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+4. [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
+5. [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/)
 
 ## DP On Grids(2)
 1. [Ninja Training](https://www.codingninjas.com/codestudio/problems/ninja-s-training_3621003)
