@@ -38,7 +38,7 @@
 2. [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/2_2_Vacation.cpp)
 3. [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](https://leetcode.com/problems/unique-paths/discuss/1733841/C%2B%2B-or-All-possible-solutions)
 4. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Solution](https://leetcode.com/problems/unique-paths-ii/discuss/1734408/C%2B%2B-or-All-possible-solutions)
-5. [Maze Obstacles](https://www.codingninjas.com/codestudio/problems/maze-obstacles_977241) | [Solution]()
+5. [Maze Obstacles](https://www.codingninjas.com/codestudio/problems/maze-obstacles_977241) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/2_5_maze_obstacles.cpp)
 6. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Solution](https://leetcode.com/problems/minimum-path-sum/discuss/1734512/C%2B%2B-or-All-possible-solutions)
 7. [Triangle](https://leetcode.com/problems/triangle/) | [Solution](https://leetcode.com/problems/triangle/discuss/1734901/C%2B%2B-or-All-possible-solutions)
 8. [Max Path Sum](https://www.codingninjas.com/codestudio/problems/maximum-path-sum-in-the-matrix_797998) | [Solution](#)
