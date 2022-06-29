@@ -57,6 +57,7 @@
 9. [Restore The Array](https://leetcode.com/problems/restore-the-array/)
 10. [Paint House III](https://leetcode.com/problems/paint-house-iii/)
 11. [Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)
+12. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 
 ## DP on Subsequences/Subsets & Target(3)
 
