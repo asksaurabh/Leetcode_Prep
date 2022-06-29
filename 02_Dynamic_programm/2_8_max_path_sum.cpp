@@ -4,43 +4,34 @@
 // T.C -> O(m*3^(n*m))
 // // Figure out max Path in order to reach row and col from any cell in first row.
 
-// int maxPath(int row, int col, vector<vector<int>> &matrix, vector<vector<int>> &dp) {
+#include<bits/stdc++.h>
+int solve(int row, int col, vector<vector<int>> &matrix, vector<vector<int>> &dp) {
+//     if(row < 0 || col < 0 || col >= matrix[0].size()) return -1e9 + 7;
+	if (row == 0) return matrix[row][col];
+	if (dp[row][col] != -1) return dp[row][col];
 
-// 	if (col < 0 or col >= matrix[0].size()) return -1e9;     // Since array can contain -ve numbers
-// 	if (row == 0) return matrix[row][col];
-// 	if (dp[row][col] != -1) return dp[row][col];
-// 	int up = 0, upLeft = 0, upRight = 0;
+	int up = -1e9 + 7, upLeft = -1e9 + 7, upRight = -1e9 + 7;
+	if (row > 0)
+		up = matrix[row][col] + solve(row - 1, col, matrix, dp);
+	if (row > 0 and col > 0)
+		upLeft = matrix[row][col] + solve(row - 1, col - 1, matrix, dp);
+	if (row > 0 and col < matrix[0].size() - 1)
+		upRight = matrix[row][col] + solve(row - 1, col + 1, matrix, dp);
 
-// 	// SInce I'm standing at end index. Down --> UP
-// 	up = matrix[row][col] + maxPath(row - 1, col, matrix, dp);
+	dp[row][col] = max(up, max(upLeft, upRight));
+}
+int getMaxPathSum(vector<vector<int>> &matrix)
+{
+	int n = matrix.size(), m = matrix[0].size();
+	vector<vector<int>> dp(n, vector<int> (m, -1));
+	int maxSum = INT_MIN;
+	for (int j = 0; j < m; j++) {
+		int sum = solve(n - 1, j, matrix, dp);
+		maxSum = max(maxSum, sum);
+	}
 
-// 	// Down left Diag ->> Up right
-// 	upRight = matrix[row][col] + maxPath(row - 1, col + 1, matrix, dp);
-
-// 	// Down right -->> UP left
-// 	upLeft = matrix[row][col] + maxPath(row - 1, col - 1, matrix, dp);
-
-// 	return dp[row][col] = max(up, max(upRight, upLeft));
-// }
-
-// int getMaxPathSum(vector<vector<int>> &matrix)
-// {
-// 	int n = matrix.size();
-// 	int m = matrix[0].size();
-
-// 	vector<vector<int>> dp(n, vector<int> (m, -1));
-
-// 	// Since starting and ending both are variable.
-// 	// Figure out all possible end points.
-// 	// Moving from bottom to up.
-// 	int maxPathSum = INT_MIN;
-// 	for (int j = 0; j < m; j++) {
-// 		int path = maxPath(n - 1, j, matrix, dp);
-// 		maxPathSum = max(maxPathSum, path);
-// 	}
-
-// 	return maxPathSum;
-// }
+	return maxSum;
+}
 
 
 
