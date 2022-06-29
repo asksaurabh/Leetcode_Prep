@@ -49,6 +49,8 @@
 1. [Dungeon Game](https://leetcode.com/problems/dungeon-game/)
 2. [Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/)
 3. [Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/)
+4. [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)
+5. [Stone Game V](https://leetcode.com/problems/stone-game-v/)
 
 ## DP on Subsequences/Subsets & Target(3)
 
