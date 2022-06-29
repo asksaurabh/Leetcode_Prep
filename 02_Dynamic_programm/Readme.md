@@ -41,7 +41,7 @@
 5. [Maze Obstacles](https://www.codingninjas.com/codestudio/problems/maze-obstacles_977241) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/2_5_maze_obstacles.cpp)
 6. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Solution](https://leetcode.com/problems/minimum-path-sum/discuss/1734512/C%2B%2B-or-All-possible-solutions)
 7. [Triangle](https://leetcode.com/problems/triangle/) | [Solution](https://leetcode.com/problems/triangle/discuss/1734901/C%2B%2B-or-All-possible-solutions)
-8. [Max Path Sum](https://www.codingninjas.com/codestudio/problems/maximum-path-sum-in-the-matrix_797998) | [Solution](#)
+8. [Max Path Sum](https://www.codingninjas.com/codestudio/problems/maximum-path-sum-in-the-matrix_797998) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/2_8_max_path_sum.cpp)
 9. [Min Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [Solution](https://leetcode.com/problems/minimum-falling-path-sum/discuss/1736061/C%2B%2B-or-All-possible-Solution)
 10. [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | [Solution](https://leetcode.com/problems/cherry-pickup-ii/discuss/1736325/C%2B%2B-or-All-possible-Solutions)
 
