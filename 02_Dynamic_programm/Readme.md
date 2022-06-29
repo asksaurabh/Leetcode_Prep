@@ -51,6 +51,12 @@
 3. [Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/)
 4. [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)
 5. [Stone Game V](https://leetcode.com/problems/stone-game-v/)
+6. [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) | [Solution](https://leetcode.com/problems/minimum-falling-path-sum-ii/discuss/2212708/C%2B%2B-or-Solution)
+7. [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)
+8. [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+9. [Restore The Array](https://leetcode.com/problems/restore-the-array/)
+10. [Paint House III](https://leetcode.com/problems/paint-house-iii/)
+11. [Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)
 
 ## DP on Subsequences/Subsets & Target(3)
 
