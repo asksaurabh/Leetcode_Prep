@@ -61,9 +61,9 @@
 
 ## DP on Subsequences/Subsets & Target(3)
 
-1. [Subset Sum Equal to K](https://www.codingninjas.com/codestudio/problems/subset-sum-equal-to-k_1550954) | [Solution](#)
+1. [Subset Sum Equal to K](https://www.codingninjas.com/codestudio/problems/subset-sum-equal-to-k_1550954) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/3_1_subset_sum.cpp)
 2. [Partition Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](https://leetcode.com/problems/partition-equal-subset-sum/discuss/1741625/C%2B%2B-or-All-possible-solutions)
-3. [Partition a set into two subsets such that the difference of subset sums is minimum.](https://www.codingninjas.com/codestudio/problems/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum_842494) | [Solution](#)
+3. [Partition a set into two subsets such that the difference of subset sums is minimum.](https://www.codingninjas.com/codestudio/problems/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum_842494) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/3_3_min_subset_sum.cpp)
 4. [Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/) | [Solution](https://leetcode.com/problems/closest-subsequence-sum/discuss/1742311/C%2B%2B-or-All-possible-solutions)
 5. [Count Subsets with sum K (zero as element not allowed)](https://www.geeksforgeeks.org/count-of-subsets-with-sum-equal-to-x/) | [Solution](#)
 6. [Perfect Sum Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1#) [Handle Edge case when 0 is also an element in array] | [Solution](#)
