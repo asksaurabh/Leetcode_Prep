@@ -23,20 +23,20 @@ bool subsetSumToK(int n, int k, vector<int> &arr) {
     return prev[k];
 }
 
-// bool subsetSumToK(int n, int k, vector<int> &arr) {
-//     vector<vector<bool>> dp(n, vector<bool> (k + 1, false));
+bool subsetSumToK(int n, int k, vector<int> &arr) {
+    vector<vector<bool>> dp(n, vector<bool> (k + 1, false));
 
-//     for(int i = 0; i < n; i++)
-//         dp[i][0] = true;
+    for (int i = 0; i < n; i++)
+        dp[i][0] = true;
 
-//     dp[0][arr[0]] = true;
+    dp[0][arr[0]] = true;
 
-//     for(int i = 1; i < n; i++) {
-//         for(int sum = 1; sum <= k; sum++) {
-//             if(arr[i] > sum) dp[i][sum] = dp[i-1][sum];
-//             else dp[i][sum] = dp[i-1][sum] || dp[i-1][sum - arr[i]];
-//         }
-//     }
+    for (int i = 1; i < n; i++) {
+        for (int sum = 1; sum <= k; sum++) {
+            if (arr[i] > sum) dp[i][sum] = dp[i - 1][sum];
+            else dp[i][sum] = dp[i - 1][sum] || dp[i - 1][sum - arr[i]];
+        }
+    }
 
-//     return dp[n-1][k];
-// }
+    return dp[n - 1][k];
+}

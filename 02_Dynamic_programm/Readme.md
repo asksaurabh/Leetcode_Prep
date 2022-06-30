@@ -77,6 +77,12 @@
 14. [Rod Cutting](https://www.codingninjas.com/codestudio/problems/rod-cutting-problem_800284) | [Solution](#)
 15. [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
 
+## EXTRAS
+1. [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
+2. [Minimize the Difference Between Target and Chosen Elements](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/)
+3. [Maximum Number of Ways to Partition an Array](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/)
+4. [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
+
 ## DP on Strings(4)
 1. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](https://leetcode.com/problems/longest-common-subsequence/discuss/1830210/C%2B%2B-or-All-possible-Solutions)
 2. [Print LCS](https://www.geeksforgeeks.org/printing-longest-common-subsequence/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/4_3_printlcs.cpp)
