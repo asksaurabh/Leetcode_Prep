@@ -70,9 +70,9 @@
 3. [Partition a set into two subsets such that the difference of subset sums is minimum.](https://www.codingninjas.com/codestudio/problems/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum_842494) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/3_3_min_subset_sum.cpp)
 4. [Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/) | [Solution](https://leetcode.com/problems/closest-subsequence-sum/discuss/1742311/C%2B%2B-or-All-possible-solutions)
 5. [Count Subsets with sum K (zero as element not allowed)](https://www.geeksforgeeks.org/count-of-subsets-with-sum-equal-to-x/) | [Solution](#)
-6. [Perfect Sum Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1#) [Handle Edge case when 0 is also an element in array] | [Solution](#)
+6. [Perfect Sum Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1#) [Handle Edge case when 0 is also an element in array] | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/3_5_perfect_sum.cpp)
 7. [Print perfectSum](https://www.geeksforgeeks.org/perfect-sum-problem-print-subsets-given-sum/) [Think about what happens if sum is -ve]
-8. [Partitions With Given Difference](https://www.codingninjas.com/codestudio/problems/partitions-with-given-difference_3751628) | [Solution](#)
+8. [Partitions With Given Difference](https://www.codingninjas.com/codestudio/problems/partitions-with-given-difference_3751628) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/3_8_partition_with_given_d.cpp)
 9. [0 1 Knapsack](https://www.codingninjas.com/codestudio/problems/0-1-knapsack_920542) | [Solution](#)
 10. [Coin Change](https://leetcode.com/problems/coin-change/) | [Solution](https://leetcode.com/problems/coin-change/discuss/1770586/C%2B%2B-or-All-Possible-Soultions)
 11. [Target Sum](https://leetcode.com/problems/target-sum/) | [Solution](https://leetcode.com/problems/target-sum/discuss/1770648/C%2B%2B-or-All-Possible-Solutions)
