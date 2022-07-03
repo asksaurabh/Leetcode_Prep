@@ -18,6 +18,7 @@
 15. [Jump Game VI](https://leetcode.com/problems/jump-game-vi/)
 16. [Jump Game VII](https://leetcode.com/problems/jump-game-vii/)
 17. [Open the Lock](https://leetcode.com/problems/open-the-lock/) | [Solution](https://leetcode.com/problems/open-the-lock/discuss/2086848/C%2B%2B-or-Solution)
+18. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](https://leetcode.com/problems/maximum-product-subarray/discuss/2225447/C%2B%2B-or-Solution)
 
 ## Follow-Ups
 1. [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/)
@@ -31,6 +32,9 @@
 9. [Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
 10. [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)
 11. [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/)
+12. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+13. [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
+14. [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
 
 
 ## DP On Grids(2)
