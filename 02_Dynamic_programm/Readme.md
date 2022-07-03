@@ -78,7 +78,7 @@
 11. [Target Sum](https://leetcode.com/problems/target-sum/) | [Solution](https://leetcode.com/problems/target-sum/discuss/1770648/C%2B%2B-or-All-Possible-Solutions)
 12. [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Solution](https://leetcode.com/problems/coin-change-2/discuss/1770737/C%2B%2B-or-All-Possible-Solutions)
 13. [Unbounded KnapSack](https://www.codingninjas.com/codestudio/problems/unbounded-knapsack_1215029) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/3_13_unbounded_knapsack.cpp)
-14. [Rod Cutting](https://www.codingninjas.com/codestudio/problems/rod-cutting-problem_800284) | [Solution](#)
+14. [Rod Cutting](https://www.codingninjas.com/codestudio/problems/rod-cutting-problem_800284) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/3_14_rod_cut.cpp)
 15. [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
 
 ## EXTRAS
