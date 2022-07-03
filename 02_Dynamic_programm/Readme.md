@@ -73,7 +73,7 @@
 6. [Perfect Sum Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1#) [Handle Edge case when 0 is also an element in array] | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/3_5_perfect_sum.cpp)
 7. [Print perfectSum](https://www.geeksforgeeks.org/perfect-sum-problem-print-subsets-given-sum/) [Think about what happens if sum is -ve]
 8. [Partitions With Given Difference](https://www.codingninjas.com/codestudio/problems/partitions-with-given-difference_3751628) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/3_8_partition_with_given_d.cpp)
-9. [0 1 Knapsack](https://www.codingninjas.com/codestudio/problems/0-1-knapsack_920542) | [Solution](#)
+9. [0 1 Knapsack](https://www.codingninjas.com/codestudio/problems/0-1-knapsack_920542) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/3_9_0-1_knapsack.cpp)
 10. [Coin Change](https://leetcode.com/problems/coin-change/) | [Solution](https://leetcode.com/problems/coin-change/discuss/1770586/C%2B%2B-or-All-Possible-Soultions)
 11. [Target Sum](https://leetcode.com/problems/target-sum/) | [Solution](https://leetcode.com/problems/target-sum/discuss/1770648/C%2B%2B-or-All-Possible-Solutions)
 12. [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Solution](https://leetcode.com/problems/coin-change-2/discuss/1770737/C%2B%2B-or-All-Possible-Solutions)
@@ -86,6 +86,9 @@
 2. [Minimize the Difference Between Target and Chosen Elements](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/)
 3. [Maximum Number of Ways to Partition an Array](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/)
 4. [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
+5. [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
+6. [Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)
+7. [Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/)
 
 ## DP on Strings(4)
 1. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](https://leetcode.com/problems/longest-common-subsequence/discuss/1830210/C%2B%2B-or-All-possible-Solutions)
