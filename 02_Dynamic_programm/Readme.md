@@ -77,7 +77,7 @@
 10. [Coin Change](https://leetcode.com/problems/coin-change/) | [Solution](https://leetcode.com/problems/coin-change/discuss/1770586/C%2B%2B-or-All-Possible-Soultions)
 11. [Target Sum](https://leetcode.com/problems/target-sum/) | [Solution](https://leetcode.com/problems/target-sum/discuss/1770648/C%2B%2B-or-All-Possible-Solutions)
 12. [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Solution](https://leetcode.com/problems/coin-change-2/discuss/1770737/C%2B%2B-or-All-Possible-Solutions)
-13. [Unbounded KnapSack](https://www.codingninjas.com/codestudio/problems/unbounded-knapsack_1215029) | [Solution](#)
+13. [Unbounded KnapSack](https://www.codingninjas.com/codestudio/problems/unbounded-knapsack_1215029) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/3_13_unbounded_knapsack.cpp)
 14. [Rod Cutting](https://www.codingninjas.com/codestudio/problems/rod-cutting-problem_800284) | [Solution](#)
 15. [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
 
@@ -89,6 +89,8 @@
 5. [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
 6. [Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)
 7. [Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/)
+8. [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)
+9. 
 
 ## DP on Strings(4)
 1. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](https://leetcode.com/problems/longest-common-subsequence/discuss/1830210/C%2B%2B-or-All-possible-Solutions)
