@@ -244,7 +244,7 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 
 ## Stacks and Queues(12)
 [Common Patterns](https://github.com/asksaurabh/Algorithms/tree/main/6.stacks)
-1. [Implement stack using array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1#)
+1. [Implement stack using array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1#) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/That_Damn_Sheet/Codes/12_1_stack_doubling_method.cpp)
 2. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution](https://leetcode.com/problems/implement-stack-using-queues/discuss/1821791/C%2B%2B-or-All-possible-Solutions)
 3. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution](https://leetcode.com/problems/implement-queue-using-stacks/discuss/1821894/C%2B%2B-or-All-possible-Solutions)
 4. [Valid Paranthesis](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://leetcode.com/problems/valid-parentheses/discuss/1699931/C%2B%2B-or-Easy-or-Clean-code)
