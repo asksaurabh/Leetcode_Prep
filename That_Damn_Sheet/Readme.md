@@ -260,6 +260,16 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 14. [Maximum of minimum for every window size](https://www.codingninjas.com/codestudio/problems/max-of-min_982935)
 15. [The Celebrity Problem](https://www.codingninjas.com/codestudio/problems/the-celebrity-problem_982769)
 
+## EXTRAS
+1. [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)
+2. [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
+3. [Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/)
+4. [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/)
+5. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+6. [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
+7. [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)
+8. [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)
+
 ## Binary Trees(13)
 
 [CLICK ME](https://github.com/asksaurabh/Leetcode_Prep/blob/main/04_Binary_Trees/Readme.md)
