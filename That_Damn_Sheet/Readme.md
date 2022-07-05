@@ -269,6 +269,11 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 6. [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
 7. [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)
 8. [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)
+9. [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
+10. [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
+11. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+12. [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/)
+13. [Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/)
 
 ## Binary Trees(13)
 
