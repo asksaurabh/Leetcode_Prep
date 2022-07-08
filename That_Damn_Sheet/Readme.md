@@ -155,9 +155,9 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 6. 
 
 ## Sliding Window(10)
-1. [Max Sum Subarray of size K](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1#) | [Solution](#)
-2. [Minimum Sum Subarray Of Given Size](https://www.codingninjas.com/codestudio/problems/find-minimum-sum-subarray-of-given-size_873368?leftPanelTab=0) | [Solution](#)
-3. [First negative integer in every window of size k](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1/#) | [Solution](#)
+1. [Max Sum Subarray of size K](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1#) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/That_Damn_Sheet/Codes/10_1_max_sum_K_sliding_window.cpp)
+2. [Minimum Sum Subarray Of Given Size](https://www.codingninjas.com/codestudio/problems/find-minimum-sum-subarray-of-given-size_873368?leftPanelTab=0) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/That_Damn_Sheet/Codes/10_2_min_sum_k_window.cpp)
+3. [First negative integer in every window of size k](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1/#) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/That_Damn_Sheet/Codes/10_3_first_negative.cpp)
 4. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Solution](https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/1810049/C%2B%2B-or-All-possible-Solutions)
 5. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](https://leetcode.com/problems/sliding-window-maximum/discuss/1810181/C%2B%2B-or-All-possible-Solutions)
 6. [Longest sub-array having sum k (Having non negative elements)] | [Solution](#)
@@ -172,11 +172,12 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 ## Extras
 1. [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)
 2. [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)
-3. [amount-of-new-area-painted-each-day](https://leetcode.com/problems/amount-of-new-area-painted-each-day/)
+3. [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 4. [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/discuss/2144090/C%2B%2B-or-Solution)
 5. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 6. [Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number/)
 7. [Removing Minimum Number of Magic Beans](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/)
+8. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
 ## LinkedList(11)
 
