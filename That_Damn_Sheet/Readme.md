@@ -155,6 +155,8 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 6. 
 
 ## Sliding Window(10)
+
+[Classic Questions](https://github.com/asksaurabh/Algorithms/tree/main/5.SlidingWindow)
 1. [Max Sum Subarray of size K](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1#) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/That_Damn_Sheet/Codes/10_1_max_sum_K_sliding_window.cpp)
 2. [Minimum Sum Subarray Of Given Size](https://www.codingninjas.com/codestudio/problems/find-minimum-sum-subarray-of-given-size_873368?leftPanelTab=0) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/That_Damn_Sheet/Codes/10_2_min_sum_k_window.cpp)
 3. [First negative integer in every window of size k](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1/#) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/That_Damn_Sheet/Codes/10_3_first_negative.cpp)
@@ -178,6 +180,8 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 6. [Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number/)
 7. [Removing Minimum Number of Magic Beans](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/)
 8. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+9. [Jump Game VI](https://leetcode.com/problems/jump-game-vi/)
+10. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 
 ## LinkedList(11)
 
