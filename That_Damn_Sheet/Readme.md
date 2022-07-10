@@ -184,6 +184,10 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 10. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 11. [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
 12. [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/)
+13. [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
+14. [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
+15. [Maximize number of 0s by flipping a subarray](https://www.geeksforgeeks.org/maximize-number-0s-flipping-subarray/)
+16. [Find zeroes to be flipped so that number of consecutive 1’s is maximized](https://www.geeksforgeeks.org/find-zeroes-to-be-flipped-so-that-number-of-consecutive-1s-is-maximized/)
 
 ## LinkedList(11)
 
