@@ -182,6 +182,8 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 8. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 9. [Jump Game VI](https://leetcode.com/problems/jump-game-vi/)
 10. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+11. [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
+12. [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/)
 
 ## LinkedList(11)
 
