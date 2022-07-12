@@ -272,6 +272,20 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 15. [The Celebrity Problem](https://www.codingninjas.com/codestudio/problems/the-celebrity-problem_982769)
 16. [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
 
+## Parentheses Problems
+1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://leetcode.com/problems/valid-parentheses/discuss/1699931/C%2B%2B-or-Easy-or-Clean-code)
+2. [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Solution](https://leetcode.com/problems/longest-valid-parentheses/discuss/1700389/C%2B%2B-or-All-possible-solutions)
+3. [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Solution](https://leetcode.com/problems/score-of-parentheses/discuss/2273175/C%2B%2B-or-Solution)
+4. [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Solution](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/discuss/2273386/C%2B%2B-or-Solution)
+5. [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Solution](https://leetcode.com/problems/remove-outermost-parentheses/discuss/2273504/C%2B%2B-or-Solution)
+6. [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)
+7. [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
+8. [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+9. [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/)
+10. [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
+11. [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)
+12. [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)
+
 ## EXTRAS
 1. [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)
 2. [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
@@ -292,20 +306,7 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 17. [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/)
 18. [Freedom Trail](https://leetcode.com/problems/freedom-trail/)
 19. [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/)
-
-## Parentheses Problems
-1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://leetcode.com/problems/valid-parentheses/discuss/1699931/C%2B%2B-or-Easy-or-Clean-code)
-2. [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Solution](https://leetcode.com/problems/longest-valid-parentheses/discuss/1700389/C%2B%2B-or-All-possible-solutions)
-3. [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Solution](https://leetcode.com/problems/score-of-parentheses/discuss/2273175/C%2B%2B-or-Solution)
-4. [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Solution](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/discuss/2273386/C%2B%2B-or-Solution)
-5. [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
-6. [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)
-7. [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
-8. [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
-9. [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/)
-10. [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
-11. [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)
-12. [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)
+20. [Goat Latin](https://leetcode.com/problems/goat-latin/)
 
 ## Binary Trees(13)
 
