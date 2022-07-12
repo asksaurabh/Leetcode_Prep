@@ -65,7 +65,7 @@
 10. [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)
 11. [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
 12. [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)
-13. 
+13. [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)
 
 
 ## Later:
