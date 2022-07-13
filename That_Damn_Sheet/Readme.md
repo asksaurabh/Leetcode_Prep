@@ -288,6 +288,7 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 13. [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
 14. [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/)
 15. [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
+16. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 
 ## EXTRAS
 1. [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)
