@@ -283,8 +283,10 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 8. [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 9. [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/)
 10. [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Solution](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/discuss/2273562/C%2B%2B-or-Solution)
-11. [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)
+11. [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/) | [Solution](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/discuss/2277574/C%2B%2B-or-Solution)
 12. [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)
+13. [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
+14. [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/)
 
 ## EXTRAS
 1. [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)
