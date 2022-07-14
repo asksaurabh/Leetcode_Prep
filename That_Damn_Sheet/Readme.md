@@ -288,7 +288,7 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 13. [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
 14. [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/)
 15. [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
-16. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+16. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](https://leetcode.com/problems/generate-parentheses/discuss/2280753/C%2B%2B-or-Solution)
 
 ## EXTRAS
 1. [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)
@@ -311,6 +311,7 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 18. [Freedom Trail](https://leetcode.com/problems/freedom-trail/)
 19. [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/)
 20. [Goat Latin](https://leetcode.com/problems/goat-latin/)
+21. [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)
 
 ## Binary Trees(13)
 
