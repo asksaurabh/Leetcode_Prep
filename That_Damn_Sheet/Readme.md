@@ -286,7 +286,7 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 11. [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/) | [Solution](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/discuss/2277574/C%2B%2B-or-Solution)
 12. [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | [Solution](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/discuss/2278141/C%2B%2B-or-Solution)
 13. [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
-14. [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/)
+14. [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [Solution](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/discuss/2281138/C%2B%2B-or-Solution)
 15. [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
 16. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](https://leetcode.com/problems/generate-parentheses/discuss/2280753/C%2B%2B-or-Solution)
 
@@ -312,6 +312,7 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 19. [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/)
 20. [Goat Latin](https://leetcode.com/problems/goat-latin/)
 21. [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)
+22. [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)
 
 ## Binary Trees(13)
 
