@@ -10,7 +10,7 @@
 8. [Max Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/1741311/C%2B%2B-or-All-possible-Solutions)
 9. [Check if Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](https://leetcode.com/problems/same-tree/discuss/1741357/C%2B%2B-or-All-possible-Solutions)
 10. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/discuss/1741417/C%2B%2B-or-All-Possible-Solutions)
-11. [Boundary Traversal](https://www.codingninjas.com/codestudio/problems/boundary-traversal_790725) | [Solution](#)
+11. [Boundary Traversal](https://www.codingninjas.com/codestudio/problems/boundary-traversal_790725) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/04_Binary_Trees/00_BoundaryTraversal.cpp)
 12. [Vertical Order Traversal](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Solution](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/1744371/C%2B%2B-or-All-possible-solutions)
 13. [Top View of the Tree](https://www.codingninjas.com/codestudio/problems/top-view-of-the-tree_799401) | [Solution](#)
 14. [Bottom View of the Tree](https://www.codingninjas.com/codestudio/problems/bottom-view-of-binary-tree_893110) | [Solution](#)
@@ -78,7 +78,8 @@
 23. [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)
 24. [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)
 25. [Operations on Tree](https://leetcode.com/problems/operations-on-tree/)
-
+26. [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+27. [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)
 
 ## Later:
 1. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
