@@ -76,6 +76,8 @@
 21. [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)
 22. [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)
 23. [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)
+24. [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)
+25. [Operations on Tree](https://leetcode.com/problems/operations-on-tree/)
 
 
 ## Later:
