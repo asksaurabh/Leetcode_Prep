@@ -68,6 +68,7 @@
 13. [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)
 14. [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
 15. [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [Solution](https://leetcode.com/problems/n-ary-tree-level-order-traversal/discuss/2285394/C%2B%2B-or-Solution)
+16. [The Time When the Network Becomes Idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/)
 
 
 ## Later:
