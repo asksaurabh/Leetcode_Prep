@@ -74,6 +74,8 @@
 19. [Path Sum](https://leetcode.com/problems/path-sum/)
 20. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 21. [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)
+22. [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)
+23. [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)
 
 
 ## Later:
