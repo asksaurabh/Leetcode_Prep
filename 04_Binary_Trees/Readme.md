@@ -71,6 +71,9 @@
 16. [The Time When the Network Becomes Idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/)
 17. [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
 18. [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)
+19. [Path Sum](https://leetcode.com/problems/path-sum/)
+20. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+21. [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)
 
 
 ## Later:
