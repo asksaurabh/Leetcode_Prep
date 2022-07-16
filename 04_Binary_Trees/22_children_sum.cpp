@@ -1,3 +1,28 @@
+// Approach:
+#define Node BinaryTreeNode
+#include<bits/stdc++.h>
+void changeTree(BinaryTreeNode < int > * root) {
+    if (root == nullptr) return;
+    if (root->left == nullptr and root->right == nullptr) return;
+
+    int childrenSum = 0;
+    if (root->left) childrenSum += root->left->data;
+    if (root->right) childrenSum += root->right->data;
+
+    int diff = root->data - childrenSum;
+    if (diff > 0) {
+        if (root->left) root->left->data += diff;
+        else root->right->data += diff;
+    }
+
+    changeTree(root->left);
+    changeTree(root->right);
+
+    root->data = (root->left ? root->left->data : 0) + (root->right ? root->right->data : 0);
+}
+
+
+// Approach:
 // T.C -> O(n), S.C -> O(h)
 void changeTree(BinaryTreeNode < int > * root) {
     if (root == nullptr) return;
