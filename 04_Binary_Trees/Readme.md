@@ -84,7 +84,10 @@
 29. [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)
 30. [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/)
 31. [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)
-32. []
+32. [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)
+33. [Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/) | [Solution](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/discuss/2289246/C%2B%2B-or-Solution)
+34. [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Solution](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/discuss/2289335/C%2B%2B-or-Solution)
+35. [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)
 
 ## Later:
 1. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
