@@ -88,6 +88,8 @@
 33. [Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/) | [Solution](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/discuss/2289246/C%2B%2B-or-Solution)
 34. [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Solution](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/discuss/2289335/C%2B%2B-or-Solution)
 35. [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)
+36. [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
+37. [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)
 
 ## Later:
 1. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
