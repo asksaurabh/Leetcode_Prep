@@ -21,7 +21,7 @@
 19. [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Solution](https://leetcode.com/problems/binary-tree-paths/discuss/1835675/C%2B%2B-or-All-possible-Solutions)
 20. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/1836090/C%2B%2B-or-All-possible-Solutions)
 21. [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Solution](https://leetcode.com/problems/maximum-width-of-binary-tree/discuss/1837064/C%2B%2B-or-Save-overflow)
-22. [Children Sum Property](https://www.codingninjas.com/codestudio/problems/childrensumproperty_790723) | [Solution](#)
+22. [Children Sum Property](https://www.codingninjas.com/codestudio/problems/childrensumproperty_790723) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/04_Binary_Trees/22_children_sum.cpp)
 23. [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Solution](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/discuss/1838543/C%2B%2B-or-All-possible-Solutions)
 24. [Time To Burn Tree](https://www.codingninjas.com/codestudio/problems/time-to-burn-tree_630563) | [Solution](#)
 25. [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Solution](https://leetcode.com/problems/count-complete-tree-nodes/discuss/1841518/C%2B%2B-or-All-possible-Solutions)
