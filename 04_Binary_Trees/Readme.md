@@ -17,7 +17,7 @@
 15. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution](https://leetcode.com/problems/binary-tree-right-side-view/discuss/1834757/C%2B%2B-or-All-possible-Solutions)
 16. [Left View of Binary Tree](https://www.codingninjas.com/codestudio/problems/left-view-of-binary-tree_625707) | [Solution](#)
 17. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Solution](https://leetcode.com/problems/symmetric-tree/discuss/1834830/C%2B%2B-or-All-possible-Solutions)
-18. [Root to Node Path](https://www.interviewbit.com/problems/path-to-given-node/) | [Solution](#)
+18. [Root to Node Path](https://www.interviewbit.com/problems/path-to-given-node/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/04_Binary_Trees/18_root_to_node_path.cpp)
 19. [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Solution](https://leetcode.com/problems/binary-tree-paths/discuss/1835675/C%2B%2B-or-All-possible-Solutions)
 20. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/1836090/C%2B%2B-or-All-possible-Solutions)
 21. [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Solution](https://leetcode.com/problems/maximum-width-of-binary-tree/discuss/1837064/C%2B%2B-or-Save-overflow)
