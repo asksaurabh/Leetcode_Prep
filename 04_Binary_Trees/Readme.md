@@ -80,6 +80,9 @@
 25. [Operations on Tree](https://leetcode.com/problems/operations-on-tree/)
 26. [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 27. [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)
+28. [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+29. [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)
+30. [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/)
 
 ## Later:
 1. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
