@@ -83,7 +83,8 @@
 28. [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
 29. [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)
 30. [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/)
-
+31. [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)
+32. []
 
 ## Later:
 1. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
