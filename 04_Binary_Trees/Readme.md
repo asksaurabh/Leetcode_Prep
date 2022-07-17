@@ -90,6 +90,9 @@
 35. [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)
 36. [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
 37. [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)
+38. [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
+39. [Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/)
+40. [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/)
 
 ## Later:
 1. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
