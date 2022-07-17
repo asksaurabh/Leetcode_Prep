@@ -93,6 +93,8 @@
 38. [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
 39. [Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/)
 40. [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/)
+41. [Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/)
+42. [Append K Integers With Minimal Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/)
 
 ## Later:
 1. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
