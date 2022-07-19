@@ -97,6 +97,10 @@
 42. [Append K Integers With Minimal Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/)
 43. [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
 44. [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
+45. [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
+46. [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)
+47. [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
+48. [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
 
 ## Later:
 1. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
