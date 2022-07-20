@@ -23,7 +23,7 @@
 ## Follow-Ups
 1. [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/)
 2. [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)
-3. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+3. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](https://leetcode.com/problems/min-cost-climbing-stairs/discuss/2310157/C%2B%2B-or-Solution)
 4. [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
 5. [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/)
 6. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
@@ -35,6 +35,9 @@
 12. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 13. [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 14. [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
+15. [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)
+16. [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)
+17. [Count Pairs With XOR in a Range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range/)
 
 
 ## DP On Grids(2)
