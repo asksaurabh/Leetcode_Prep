@@ -335,6 +335,10 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 4. [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
 5. [Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/)
 
+## Hashing + Prefix-sum + Two-Pointers
+
+[CLICK ME](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Readme.md)
+
 ## LATER
 1. [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
 2. [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
