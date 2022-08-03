@@ -31,3 +31,6 @@
 29. [Counting Triangles](https://www.interviewbit.com/problems/counting-triangles/) | [SOlution](https://leetcode.com/problems/valid-triangle-number/discuss/2368454/C%2B%2B-or-Solution)
 30. [Palindrome Numbers](https://www.interviewbit.com/problems/palindrome-numbers/)
 31. [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [Solution](https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/2371117/C%2B%2B-or-Solution)
+32. [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Solution](https://leetcode.com/problems/contiguous-array/discuss/2372331/C%2B%2B-or-Solution)
+33. [Longest Subarray Length](https://www.interviewbit.com/problems/longest-subarray-length/)
+34. 
