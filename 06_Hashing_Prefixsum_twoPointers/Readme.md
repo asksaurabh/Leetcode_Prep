@@ -34,4 +34,6 @@
 32. [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Solution](https://leetcode.com/problems/contiguous-array/discuss/2372331/C%2B%2B-or-Solution)
 33. [Longest Subarray Length](https://www.interviewbit.com/problems/longest-subarray-length/)
 34. [First Repeating element](https://www.interviewbit.com/problems/first-repeating-element/)
-35. 
+35. [Counting Subarrays!](https://www.interviewbit.com/problems/counting-subarrays/)
+36. [Subarray with equal occurences!](https://www.interviewbit.com/problems/subarray-with-equal-occurences/) [TO DO]
+37. 
