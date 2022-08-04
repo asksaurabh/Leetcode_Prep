@@ -36,4 +36,6 @@
 34. [First Repeating element](https://www.interviewbit.com/problems/first-repeating-element/)
 35. [Counting Subarrays!](https://www.interviewbit.com/problems/counting-subarrays/)
 36. [Subarray with equal occurences!](https://www.interviewbit.com/problems/subarray-with-equal-occurences/) [TO DO]
-37. 
+37. [Subarray with B odd numbers](https://www.interviewbit.com/problems/subarray-with-b-odd-numbers/)
+38. [Subarray with equal occurences!](https://www.interviewbit.com/problems/subarray-with-equal-occurences/)
+39. 
