@@ -33,4 +33,5 @@
 31. [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [Solution](https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/2371117/C%2B%2B-or-Solution)
 32. [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Solution](https://leetcode.com/problems/contiguous-array/discuss/2372331/C%2B%2B-or-Solution)
 33. [Longest Subarray Length](https://www.interviewbit.com/problems/longest-subarray-length/)
-34. 
+34. [First Repeating element](https://www.interviewbit.com/problems/first-repeating-element/)
+35. 
