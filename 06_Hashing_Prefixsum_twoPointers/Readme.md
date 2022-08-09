@@ -38,4 +38,9 @@
 36. [Subarray with equal occurences!](https://www.interviewbit.com/problems/subarray-with-equal-occurences/) [TO DO]
 37. [Subarray with B odd numbers](https://www.interviewbit.com/problems/subarray-with-b-odd-numbers/)
 38. [Subarray with equal occurences!](https://www.interviewbit.com/problems/subarray-with-equal-occurences/)
-39. 
+39. [Two out of Three](https://www.interviewbit.com/problems/two-out-of-three/)
+40. [Check Palindrome!](https://www.interviewbit.com/problems/check-palindrome/)
+41. [Minimize the absolute difference](https://www.interviewbit.com/problems/minimize-the-absolute-difference/)
+42. [Pair With Given Difference](https://www.interviewbit.com/problems/pair-with-given-difference/)
+43. [An Increment Problem](https://www.interviewbit.com/problems/an-increment-problem/)
+44. 
