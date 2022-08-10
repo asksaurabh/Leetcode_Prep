@@ -22,6 +22,7 @@
 5. [Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/03_Recursion_And_BackTracking/12_rat_in_a_maze_1.cpp)
 6. [Rat in a Maze](https://www.codingninjas.com/codestudio/problems/758966) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/03_Recursion_And_BackTracking/6_rat_in_a_maze_cn.cpp)
 7. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/1981587/C%2B%2B-or-Solution)
+8. [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Solution](https://leetcode.com/problems/restore-ip-addresses/discuss/2407922/C%2B%2B-or-Solution)
 
 ## EXTRAS:
 
