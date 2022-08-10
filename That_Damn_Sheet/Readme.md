@@ -209,7 +209,7 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 16. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](https://leetcode.com/problems/max-consecutive-ones/discuss/1818418/C%2B%2B-or-All-possible-Solutions)
 17. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/discuss/1818390/C%2B%2B-or-All-possible-Solutions)
 18. [Sort List](https://leetcode.com/problems/sort-list/) | [Solution](https://leetcode.com/problems/sort-list/discuss/1670569/C%2B%2B-or-Classic-Merge-Sort)
-19. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+19. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](https://leetcode.com/problems/merge-k-sorted-lists/discuss/1964042/C%2B%2B-or-Solution)
 20. [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) | [Solution](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/discuss/2102638/C%2B%2B-or-Solution)
 
 ## EXTRAS
