@@ -8,7 +8,7 @@
 6. [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Solution](https://leetcode.com/problems/max-points-on-a-line/discuss/2333662/C%2B%2B-or-Solution)
 7. [2 Sum](https://www.interviewbit.com/problems/2-sum/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/07_2_sum.cpp)
 8. [Valid Sudoku](https://www.interviewbit.com/problems/valid-sudoku/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/08_Valid_sudoku.cpp)
-9. [Copy List](https://www.interviewbit.com/problems/copy-list/)
+9. [Copy List](https://www.interviewbit.com/problems/copy-list/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/09_copy_list.cpp)
 10. [Diffk II](https://www.interviewbit.com/problems/diffk-ii/)
 11. [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) [TO DO]
 12. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/1770062/C%2B%2B-or-Neat-Solutions)
