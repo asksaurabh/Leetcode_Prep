@@ -4,7 +4,7 @@
 2. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Solution](https://leetcode.com/problems/minimum-window-substring/discuss/1812844/C%2B%2B-or-Hard)
 3. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](https://leetcode.com/problems/longest-consecutive-sequence/discuss/1767273/C%2B%2B-or-Some-Neat-Solutions)
 4. [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](https://leetcode.com/problems/group-anagrams/discuss/2333449/C%2B%2B-or-Solution)
-5. [Anagrams](https://www.interviewbit.com/problems/anagrams/)
+5. [Anagrams](https://www.interviewbit.com/problems/anagrams/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/05_Anagrams.cpp)
 6. [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Solution](https://leetcode.com/problems/max-points-on-a-line/discuss/2333662/C%2B%2B-or-Solution)
 7. [2 Sum](https://www.interviewbit.com/problems/2-sum/)
 8. [Valid Sudoku](https://www.interviewbit.com/problems/valid-sudoku/)
