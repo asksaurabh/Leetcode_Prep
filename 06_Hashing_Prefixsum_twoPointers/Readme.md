@@ -6,7 +6,7 @@
 4. [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](https://leetcode.com/problems/group-anagrams/discuss/2333449/C%2B%2B-or-Solution)
 5. [Anagrams](https://www.interviewbit.com/problems/anagrams/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/05_Anagrams.cpp)
 6. [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Solution](https://leetcode.com/problems/max-points-on-a-line/discuss/2333662/C%2B%2B-or-Solution)
-7. [2 Sum](https://www.interviewbit.com/problems/2-sum/)
+7. [2 Sum](https://www.interviewbit.com/problems/2-sum/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/07_2_sum.cpp)
 8. [Valid Sudoku](https://www.interviewbit.com/problems/valid-sudoku/)
 9. [Copy List](https://www.interviewbit.com/problems/copy-list/)
 10. [Diffk II](https://www.interviewbit.com/problems/diffk-ii/)
