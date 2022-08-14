@@ -10,7 +10,7 @@
 8. [Valid Sudoku](https://www.interviewbit.com/problems/valid-sudoku/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/08_Valid_sudoku.cpp)
 9. [Copy List](https://www.interviewbit.com/problems/copy-list/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/09_copy_list.cpp)
 10. [Diffk II](https://www.interviewbit.com/problems/diffk-ii/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/10_Diff_II.cpp)
-11. [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) [TO DO]
+11. [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Solution](https://leetcode.com/problems/k-diff-pairs-in-an-array/discuss/2425874/C%2B%2B-or-Solution)
 12. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/1770062/C%2B%2B-or-Neat-Solutions)
 13. [Diffk](https://www.interviewbit.com/problems/diffk/)
 14. [Intersection Of Sorted Arrays](https://www.interviewbit.com/problems/intersection-of-sorted-arrays/)
