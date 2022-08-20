@@ -14,7 +14,7 @@
 12. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/1770062/C%2B%2B-or-Neat-Solutions)
 13. [Diffk](https://www.interviewbit.com/problems/diffk/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/13_Diffk.cpp)
 14. [Intersection Of Sorted Arrays](https://www.interviewbit.com/problems/intersection-of-sorted-arrays/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/14_intersection_2_sorted_arrs.cpp)
-15. [Merge Two Sorted Lists II](https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/)
+15. [Merge Two Sorted Lists II](https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/15_merge_two_sorted_lists.cpp)
 16. [Remove Duplicates from Sorted Array](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/)
 17. [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Solution](https://leetcode.com/problems/max-consecutive-ones-iii/discuss/2354712/C%2B%2B-or-Solution)
 18. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
