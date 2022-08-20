@@ -17,7 +17,7 @@
 15. [Merge Two Sorted Lists II](https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/15_merge_two_sorted_lists.cpp)
 16. [Remove Duplicates from Sorted Array](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/16_remove_dups_from_sorted_arr.cpp)
 17. [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Solution](https://leetcode.com/problems/max-consecutive-ones-iii/discuss/2354712/C%2B%2B-or-Solution)
-18. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+18. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](https://leetcode.com/problems/longest-repeating-character-replacement/discuss/2453150/C%2B%2B-or-Solution)
 19. [Max Continuous Series of 1s](https://www.interviewbit.com/problems/max-continuous-series-of-1s/)
 20. [Sort by Color](https://www.interviewbit.com/problems/sort-by-color/)
 21. [Array 3 Pointers](https://www.interviewbit.com/problems/array-3-pointers/)
