@@ -20,7 +20,7 @@
 18. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](https://leetcode.com/problems/longest-repeating-character-replacement/discuss/2453150/C%2B%2B-or-Solution)
 19. [Max Continuous Series of 1s](https://www.interviewbit.com/problems/max-continuous-series-of-1s/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/19_max_continuous_series_of_ones.cpp)
 20. [Sort by Color](https://www.interviewbit.com/problems/sort-by-color/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/20_sort_by_color.cpp)
-21. [Array 3 Pointers](https://www.interviewbit.com/problems/array-3-pointers/)
+21. [Array 3 Pointers](https://www.interviewbit.com/problems/array-3-pointers/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/21_array_3_pointers.cpp)
 22. [Remove Duplicates from Sorted Array II](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array-ii/)
 23. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 24. [Remove Element](https://leetcode.com/problems/remove-element/) | [Solution](https://leetcode.com/problems/remove-element/discuss/2366158/C%2B%2B-or-Solution)
