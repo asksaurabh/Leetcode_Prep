@@ -22,7 +22,7 @@
 20. [Sort by Color](https://www.interviewbit.com/problems/sort-by-color/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/20_sort_by_color.cpp)
 21. [Array 3 Pointers](https://www.interviewbit.com/problems/array-3-pointers/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/21_array_3_pointers.cpp)
 22. [Remove Duplicates from Sorted Array II](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/22_remove_dups_2.cpp)
-23. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+23. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](https://leetcode.com/problems/container-with-most-water/discuss/2110912/C%2B%2B-or-Solution)
 24. [Remove Element](https://leetcode.com/problems/remove-element/) | [Solution](https://leetcode.com/problems/remove-element/discuss/2366158/C%2B%2B-or-Solution)
 25. [Colorful Number](https://www.interviewbit.com/problems/colorful-number/)
 26. [Equal](https://www.interviewbit.com/problems/equal/)
