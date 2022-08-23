@@ -24,7 +24,7 @@
 22. [Remove Duplicates from Sorted Array II](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/22_remove_dups_2.cpp)
 23. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](https://leetcode.com/problems/container-with-most-water/discuss/2110912/C%2B%2B-or-Solution)
 24. [Remove Element](https://leetcode.com/problems/remove-element/) | [Solution](https://leetcode.com/problems/remove-element/discuss/2366158/C%2B%2B-or-Solution)
-25. [Colorful Number](https://www.interviewbit.com/problems/colorful-number/)
+25. [Colorful Number](https://www.interviewbit.com/problems/colorful-number/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/25_colorful_number.cpp)
 26. [Equal](https://www.interviewbit.com/problems/equal/)
 27. [Largest Continuous Sequence Zero Sum](https://www.interviewbit.com/problems/largest-continuous-sequence-zero-sum/)
 28. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
