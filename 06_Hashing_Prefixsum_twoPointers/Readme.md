@@ -27,7 +27,7 @@
 25. [Colorful Number](https://www.interviewbit.com/problems/colorful-number/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/25_colorful_number.cpp)
 26. [Equal](https://www.interviewbit.com/problems/equal/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/26_equal.cpp)
 27. [Largest Continuous Sequence Zero Sum](https://www.interviewbit.com/problems/largest-continuous-sequence-zero-sum/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/27_largest_contiguous_seq_zero_sum.cpp)
-28. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+28. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](https://leetcode.com/problems/subarray-sum-equals-k/discuss/1769617/C%2B%2B-or-All-Neat-Solutions)
 29. [Counting Triangles](https://www.interviewbit.com/problems/counting-triangles/) | [SOlution](https://leetcode.com/problems/valid-triangle-number/discuss/2368454/C%2B%2B-or-Solution)
 30. [Palindrome Numbers](https://www.interviewbit.com/problems/palindrome-numbers/)
 31. [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [Solution](https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/2371117/C%2B%2B-or-Solution)
