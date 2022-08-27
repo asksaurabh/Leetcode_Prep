@@ -36,7 +36,7 @@
 34. [First Repeating element](https://www.interviewbit.com/problems/first-repeating-element/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/34_first_repeating_element.cpp)
 35. [Counting Subarrays!](https://www.interviewbit.com/problems/counting-subarrays/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/35_counting_subs.cpp)
 36. [Subarray with equal occurences!](https://www.interviewbit.com/problems/subarray-with-equal-occurences/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/36_sub_with_equal_occ.cpp)
-37. [Subarray with B odd numbers](https://www.interviewbit.com/problems/subarray-with-b-odd-numbers/)
+37. [Subarray with B odd numbers](https://www.interviewbit.com/problems/subarray-with-b-odd-numbers/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/37_sub_with_B_odd_numbers.cpp)
 38. [Subarray with equal occurences!](https://www.interviewbit.com/problems/subarray-with-equal-occurences/)
 39. [Two out of Three](https://www.interviewbit.com/problems/two-out-of-three/)
 40. [Check Palindrome!](https://www.interviewbit.com/problems/check-palindrome/)
