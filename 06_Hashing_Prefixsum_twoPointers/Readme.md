@@ -41,6 +41,6 @@
 39. [Two out of Three](https://www.interviewbit.com/problems/two-out-of-three/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/39_two_out_of_three.cpp)
 40. [Check Palindrome!](https://www.interviewbit.com/problems/check-palindrome/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/40_check_pal.cpp)
 41. [Minimize the absolute difference](https://www.interviewbit.com/problems/minimize-the-absolute-difference/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/41_min_the_abs_diff.cpp)
-42. [Pair With Given Difference](https://www.interviewbit.com/problems/pair-with-given-difference/)
+42. [Pair With Given Difference](https://www.interviewbit.com/problems/pair-with-given-difference/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/06_Hashing_Prefixsum_twoPointers/Codes/42_pair_with_given_diff.cpp)
 43. [An Increment Problem](https://www.interviewbit.com/problems/an-increment-problem/)
 44. 
