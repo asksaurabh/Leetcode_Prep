@@ -125,7 +125,7 @@
 8. [Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/)
 9. [Maximum Product of the Length of Two Palindromic Subsequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/)
 10. [Minimum Number of Moves to Make Palindrome](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/)
-11. [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
+11. [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [Solution](https://leetcode.com/problems/letter-case-permutation/discuss/2557346/C%2B%2B-or-Solution)
 12. [Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings/)
 13. [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
 14. [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)
