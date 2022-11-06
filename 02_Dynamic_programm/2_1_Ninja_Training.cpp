@@ -1,3 +1,28 @@
+// Offset 0 approach:
+// Top-Down
+#define vvi vector<vector<int>>
+#define vi vector<int>
+int getMaxPoints(int day, int lastTask, vvi &points, vvi &dp) {
+	if (day == 0) return 0;    // Training has not started yet. No training no tasks no points.
+	if (dp[day][lastTask] != -1) return dp[day][lastTask];
+
+	int maxPoints = 0;
+	for (int task = 0; task < 3; task++) {
+		if (task != lastTask) {
+			int currPoints = points[day - 1][task] + getMaxPoints(day - 1, task, points, dp);
+			maxPoints = max(maxPoints, currPoints);
+		}
+	}
+
+	return dp[day][lastTask] = maxPoints;
+}
+int ninjaTraining(int n, vector<vector<int>> &points)
+{
+	// Variables changing: day and task no.
+	vvi dp(n + 1, vector<int> (4, -1));
+	return getMaxPoints(n, 3, points, dp);
+}
+
 // Top-Down Approach
 int solve(int day, int lastTask, vector<vector<int>> &dp, vector<vector<int>> &points) {
 	if (day == 0) {

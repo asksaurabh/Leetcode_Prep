@@ -65,6 +65,8 @@
 10. [Paint House III](https://leetcode.com/problems/paint-house-iii/)
 11. [Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)
 12. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+13. [Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/)
+14. [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/)
 
 ## DP on Subsequences/Subsets & Target(3)
 
