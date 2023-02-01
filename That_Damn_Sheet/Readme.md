@@ -128,6 +128,8 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 7. [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
 8. [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)
 9. [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/)
+10. [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/)
+11. [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/)
 
 ## Trie(6)
 1. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](https://leetcode.com/problems/implement-trie-prefix-tree/discuss/1788976/C%2B%2B-or-Modular-Code)
