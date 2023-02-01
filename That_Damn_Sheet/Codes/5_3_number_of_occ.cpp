@@ -1,3 +1,51 @@
+// Approach - 1
+class Solution{
+public:	
+    int getStartIndex(int arr[], int n, int x) {
+        int lo = 0, hi = n - 1;
+        
+        while(hi - lo > 1) {
+            int mid = lo + (hi - lo)/2;
+            if(arr[mid] < x) {
+                lo = mid + 1;
+            } else {
+                hi = mid;
+            }
+        }
+        
+        if(arr[lo] == x) return lo;
+        else if(arr[hi] == x) return hi;
+        return -1;
+    }
+	
+	int getEndIndex(int arr[], int n, int x) {
+	    int lo = 0, hi = n - 1;
+	    
+	    while(hi - lo > 1) {
+	        int mid = lo + (hi - lo)/2;
+	        if(arr[mid] > x) {
+	            hi = mid - 1;
+	        } else {
+	            lo = mid;
+	        }
+	    }
+	    
+	    if(arr[hi] == x) return hi;
+	    else if(arr[lo] == x) return lo;
+	    return -1;
+	}
+	
+	int count(int arr[], int n, int x) {
+	    int startIndex = getStartIndex(arr, n, x);
+	    int endIndex = getEndIndex(arr, n, x);
+	    
+	    if(startIndex == -1) return 0;
+	    return (endIndex - startIndex + 1);
+	}
+};
+
+// Approach - 2
+// Using extra variable.
 class Solution {
 public:
 	/* if x is present in arr[] then returns the count
