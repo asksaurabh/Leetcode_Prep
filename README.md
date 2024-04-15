@@ -18,3 +18,4 @@ Questions:
 10. [Minimum in rotated sorted array 1](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [Ninjas](https://www.naukri.com/code360/problems/rotated-array_1093219)
 11. [Minimum in rotated sorted array 2](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/)
 12. [Count array rotations](https://www.naukri.com/code360/problems/rotation_7449070) | Extend follow up if we have to do this when dups are present
+13. [Single element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [Ninjas](https://www.naukri.com/code360/problems/unique-element-in-sorted-array_1112654)
