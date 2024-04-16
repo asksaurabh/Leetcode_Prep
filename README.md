@@ -19,3 +19,4 @@ Questions:
 11. [Minimum in rotated sorted array 2](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/)
 12. [Count array rotations](https://www.naukri.com/code360/problems/rotation_7449070) | Extend follow up if we have to do this when dups are present
 13. [Single element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [Ninjas](https://www.naukri.com/code360/problems/unique-element-in-sorted-array_1112654)
+14. [Peak Element 1](https://leetcode.com/problems/find-peak-element/description/) | [Ninjas](https://www.naukri.com/code360/problems/find-peak-element_1081482)
