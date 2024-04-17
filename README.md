@@ -3,7 +3,11 @@ Revision
 # Binary Search
 
 Idea is to find a monotonic search space. Perform operations (include or reject) on the search space accordingly. Search space implies the space where your answer might lie. Another pointer is make sure your search space is within the range (if you apply BS on problems other than involving arrays). If it's not within the integer limit, handle accordingly.
-Funny thing we miss: If you find an answer within your search space, the part to the left or to the right will all be the answers (monotonic). You just have to pick the most suitable according to the problem asked.
+<hr>
+Note 1: If you find an answer within your search space, the part to the left or to the right will all be the answers (monotonic). You just have to pick the most suitable according to the problem asked.
+<br>
+Note 2: If you are sure about the answer range and you have been given to find minimum and maximum in that range which fits your question use BS on answer.
+<hr>
 
 Questions:
 1. [Find X in sorted array - Leetcode](https://leetcode.com/problems/binary-search/description/) | [Ninjas](https://www.naukri.com/code360/problems/binary-search_972)
@@ -21,4 +25,5 @@ Questions:
 13. [Single element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [Ninjas](https://www.naukri.com/code360/problems/unique-element-in-sorted-array_1112654)
 14. [Peak Element 1](https://leetcode.com/problems/find-peak-element/description/) | [Ninjas](https://www.naukri.com/code360/problems/find-peak-element_1081482)
 15. [Mountain array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
-16. 
+16. [Square Root of a number](https://www.naukri.com/code360/problems/square-root-integral_893351) | Find max integer which on squaring <= n | Places where you find overflow (try to remove: Eg here: mid == n/mid)
+17. [Find Nth root of M](https://www.naukri.com/code360/problems/nth-root-of-m_1062679)
