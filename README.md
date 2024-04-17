@@ -27,3 +27,4 @@ Questions:
 15. [Mountain array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
 16. [Square Root of a number](https://www.naukri.com/code360/problems/square-root-integral_893351) | Find max integer which on squaring <= n | Places where you find overflow (try to remove: Eg here: mid == n/mid)
 17. [Find Nth root of M](https://www.naukri.com/code360/problems/nth-root-of-m_1062679)
+18. [Koko eating bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | [Ninjas](https://www.naukri.com/code360/problems/minimum-rate-to-eat-bananas_7449064)
