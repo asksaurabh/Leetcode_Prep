@@ -28,3 +28,6 @@ Questions:
 16. [Square Root of a number](https://www.naukri.com/code360/problems/square-root-integral_893351) | Find max integer which on squaring <= n | Places where you find overflow (try to remove: Eg here: mid == n/mid)
 17. [Find Nth root of M](https://www.naukri.com/code360/problems/nth-root-of-m_1062679)
 18. [Koko eating bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | [Ninjas](https://www.naukri.com/code360/problems/minimum-rate-to-eat-bananas_7449064)
+19. [Make bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/) | [Ninjas](https://www.naukri.com/code360/problems/rose-garden_2248080)
+20. [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/) | [Ninjas](https://www.naukri.com/code360/problems/smallest-divisor-with-the-given-limit_1755882)
+21. [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/) | [Ninjas](https://www.naukri.com/code360/problems/capacity-to-ship-packages-within-d-days_1229379)
