@@ -33,3 +33,5 @@ Questions:
 21. [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/) | [Ninjas](https://www.naukri.com/code360/problems/capacity-to-ship-packages-within-d-days_1229379)
 22. [Aggresive cows](https://www.naukri.com/code360/problems/aggressive-cows_1082559)
 23. [Allocate books](https://www.naukri.com/code360/problems/allocate-books_1090540)
+24. [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) | [Ninjas](https://www.naukri.com/code360/problems/largest-subarray-sum-minimized_7461751)
+25. [Painter's partition problem](https://www.naukri.com/code360/problems/painter-s-partition-problem_1089557)
