@@ -35,3 +35,4 @@ Questions:
 23. [Allocate books](https://www.naukri.com/code360/problems/allocate-books_1090540)
 24. [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) | [Ninjas](https://www.naukri.com/code360/problems/largest-subarray-sum-minimized_7461751)
 25. [Painter's partition problem](https://www.naukri.com/code360/problems/painter-s-partition-problem_1089557)
+26. [Row with Max 1's](https://www.naukri.com/code360/problems/row-of-a-matrix-with-maximum-ones_982768)
