@@ -37,3 +37,4 @@ Questions:
 25. [Painter's partition problem](https://www.naukri.com/code360/problems/painter-s-partition-problem_1089557)
 26. [Row with Max 1's](https://www.naukri.com/code360/problems/row-of-a-matrix-with-maximum-ones_982768)
 27. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
+28. [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)
