@@ -254,6 +254,12 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 36. [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 37. [sort-linked-list-already-sorted-using-absolute-values](https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values/)
 
+## LL extras:
+1. [Insertion in DLL](https://www.naukri.com/code360/problems/insertion-in-doubly-linked-list_4609682)
+2. [Deletion in DLL](https://www.naukri.com/code360/problems/deletion-in-doubly-linked-list_4609672)
+3. [Reverse a DLL](https://www.naukri.com/code360/problems/reverse-a-doubly-linked-list_1116098)
+4. 
+
 
 ## Stacks and Queues(12)
 [Common Patterns](https://github.com/asksaurabh/Algorithms/tree/main/6.stacks)
