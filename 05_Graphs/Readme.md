@@ -45,6 +45,7 @@
 42. [01 Matrix](https://leetcode.com/problems/01-matrix/)
 43. [Surround regions](https://leetcode.com/problems/surrounded-regions/description/)
 44. [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/)
+45. [Distinct islands](https://www.naukri.com/code360/problems/distinct-islands_630460?leftPanelTabValue=PROBLEM)
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
