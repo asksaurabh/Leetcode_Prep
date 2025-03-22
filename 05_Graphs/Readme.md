@@ -47,6 +47,7 @@
 44. [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/)
 45. [Distinct islands](https://www.naukri.com/code360/problems/distinct-islands_630460?leftPanelTabValue=PROBLEM)
 46. [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/)
+47. [Alien dictionary - CN](https://www.naukri.com/code360/problems/alien-dictionary_630423?leftPanelTabValue=PROBLEM) | [GFG](https://www.geeksforgeeks.org/problems/alien-dictionary/1)
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
