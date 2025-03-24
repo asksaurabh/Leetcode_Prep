@@ -48,6 +48,7 @@
 45. [Distinct islands](https://www.naukri.com/code360/problems/distinct-islands_630460?leftPanelTabValue=PROBLEM)
 46. [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/)
 47. [Alien dictionary - CN](https://www.naukri.com/code360/problems/alien-dictionary_630423?leftPanelTabValue=PROBLEM) | [GFG](https://www.geeksforgeeks.org/problems/alien-dictionary/1)
+48. [Shortest Path in DAG](https://www.naukri.com/code360/problems/shortest-path-in-dag_8381897?leftPanelTabValue=PROBLEM)
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
