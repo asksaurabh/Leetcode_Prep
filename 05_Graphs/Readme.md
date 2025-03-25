@@ -50,7 +50,7 @@
 47. [Alien dictionary - CN](https://www.naukri.com/code360/problems/alien-dictionary_630423?leftPanelTabValue=PROBLEM) | [GFG](https://www.geeksforgeeks.org/problems/alien-dictionary/1)
 48. [Shortest Path in DAG](https://www.naukri.com/code360/problems/shortest-path-in-dag_8381897?leftPanelTabValue=PROBLEM)
 49. [Shortest Path in Undirected graph](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1) | [Construct shortest path in undirected graph](https://www.naukri.com/code360/problems/shortest-path-in-an-unweighted-graph_981297?leftPanelTabValue=PROBLEM)
-50. 
+50. [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/description/)
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
