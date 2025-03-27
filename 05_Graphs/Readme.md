@@ -52,6 +52,10 @@
 49. [Shortest Path in Undirected graph](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1) | [Construct shortest path in undirected graph](https://www.naukri.com/code360/problems/shortest-path-in-an-unweighted-graph_981297?leftPanelTabValue=PROBLEM)
 50. [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/description/) | [Solution](https://leetcode.com/problems/minimum-genetic-mutation/solutions/6576321/c-easy-by-asksaurabh101-56dj/)
 51. [Dijkstra's Algorithm](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | [Shortest Path construction](https://www.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph/1)
+52. [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/)
+53. [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/description/)
+54. [Minimum Multiplications to reach End](https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/0)
+55. [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/)
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
