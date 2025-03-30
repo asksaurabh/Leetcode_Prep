@@ -172,6 +172,8 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 11. [Longest Substring with atmost k unique characters] | [Solution](#)
 12. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Solution](https://leetcode.com/problems/minimum-window-substring/discuss/1812844/C%2B%2B-or-Hard)
 13. [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [Solution](https://leetcode.com/problems/maximum-erasure-value/discuss/2141746/C%2B%2B-or-Solutions)
+14. [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)
+15. 
 
 ## Extras
 1. [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)
