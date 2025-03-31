@@ -116,7 +116,7 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 18. [Nth Root of M using Binary Search](https://www.codingninjas.com/codestudio/problems/1062679) | [Solution](#) | [Best Solution for power questions](https://leetcode.com/problems/powx-n/discuss/1763747/C%2B%2B-or-All-Neat-Solutions)
 19. [Matrix Median](https://www.codingninjas.com/codestudio/problems/873378) | [Solution](#)
 20. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/1761280/C%2B%2B-or-All-Neat-Solutions)
-21. 
+21. [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/)
 
 ## EXTRAS
 1. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
