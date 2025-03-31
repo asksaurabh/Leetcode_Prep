@@ -173,7 +173,13 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 12. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Solution](https://leetcode.com/problems/minimum-window-substring/discuss/1812844/C%2B%2B-or-Hard)
 13. [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [Solution](https://leetcode.com/problems/maximum-erasure-value/discuss/2141746/C%2B%2B-or-Solutions)
 14. [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)
-15. 
+15. [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)
+16. [Longest Substring with At Most K Distinct Characters](https://www.naukri.com/code360/problems/distinct-characters_2221410?leftPanelTabValue=PROBLEM)
+17. [Longest Substring with exactly K Uniques](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1)
+18. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
+19. [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/)
+20. [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)
+21. 
 
 ## Extras
 1. [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)
