@@ -287,6 +287,8 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 14. [Maximum of minimum for every window size](https://www.codingninjas.com/codestudio/problems/max-of-min_982935)
 15. [The Celebrity Problem](https://www.codingninjas.com/codestudio/problems/the-celebrity-problem_982769)
 16. [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
+17. [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/)
+18. [Nearest Smaller Element](https://www.interviewbit.com/problems/nearest-smaller-element/)
 
 ## Parentheses Problems
 1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://leetcode.com/problems/valid-parentheses/discuss/1699931/C%2B%2B-or-Easy-or-Clean-code)
