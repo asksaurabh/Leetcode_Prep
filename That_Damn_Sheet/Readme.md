@@ -289,6 +289,10 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 16. [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
 17. [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/)
 18. [Nearest Smaller Element](https://www.interviewbit.com/problems/nearest-smaller-element/)
+19. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
+20. [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/)
+21. [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/description/)
+22. [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)
 
 ## Parentheses Problems
 1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://leetcode.com/problems/valid-parentheses/discuss/1699931/C%2B%2B-or-Easy-or-Clean-code)
