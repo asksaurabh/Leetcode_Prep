@@ -280,7 +280,6 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 7. [Next Smaller Element](https://www.codingninjas.com/codestudio/problems/1112581)
 8. [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Solution](https://leetcode.com/problems/lru-cache/discuss/1825335/C%2B%2B-or-All-possible-Solutions)
 9. [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [Solution](https://leetcode.com/problems/lfu-cache/discuss/1826030/C%2B%2B-or-All-possible-Solutions)
-10. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution](https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/1704769/C%2B%2B-or-Stack-solution)
 11. [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution](https://leetcode.com/problems/min-stack/discuss/1828008/C%2B%2B-or-All-possible-Solutions)
 12. [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Solution](https://leetcode.com/problems/rotting-oranges/discuss/1828101/C%2B%2B-or-Clean-Code)
 13. [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Solution](https://leetcode.com/problems/online-stock-span/discuss/1828134/C%2B%2B-or-All-possible-Solutions)
@@ -293,6 +292,12 @@ Note: Find a search space which is monotonic in order to apply this algorithm.
 20. [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/)
 21. [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/description/)
 22. [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)
+23. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution](https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/1704769/C%2B%2B-or-Stack-solution)
+24. [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)
+25. [Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/)
+26. [Online Stock Span](https://leetcode.com/problems/online-stock-span/description/)
+27. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)
+28. [The Celebrity Problem](https://www.codingninjas.com/codestudio/problems/the-celebrity-problem_982769)
 
 ## Parentheses Problems
 1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://leetcode.com/problems/valid-parentheses/discuss/1699931/C%2B%2B-or-Easy-or-Clean-code)
