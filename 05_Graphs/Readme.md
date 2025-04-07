@@ -59,6 +59,7 @@
 56. [Bellman-Ford](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1)
 57. [Floyd Warshall](https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1)
 58. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)
+59. [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) -> Prim's
 
 ## EXTRAS
 1. [clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)
