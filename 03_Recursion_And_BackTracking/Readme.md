@@ -12,6 +12,7 @@
 10. [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Solution](https://leetcode.com/problems/combination-sum-iii/discuss/1896884/C%2B%2B-or-Solution)
 11. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Solution](https://leetcode.com/problems/combination-sum-iv/discuss/1896991/C%2B%2B-or-Solutions)
 12. [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Solution](https://leetcode.com/problems/permutations-ii/discuss/1898675/C%2B%2B-or-Solutions)
+13. [Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1)
 
 # Backtracking
 
