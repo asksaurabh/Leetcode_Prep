@@ -99,7 +99,7 @@
 
 ## DP on Strings(4)
 1. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](https://leetcode.com/problems/longest-common-subsequence/discuss/1830210/C%2B%2B-or-All-possible-Solutions)
-2. [Print LCS](https://www.geeksforgeeks.org/printing-longest-common-subsequence/) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/4_3_printlcs.cpp)
+2. [Print LCS](https://www.naukri.com/code360/problems/print-longest-common-subsequence_8416383) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/4_3_printlcs.cpp)
 3. [Longest Common Substring](https://www.codingninjas.com/codestudio/problems/longest-common-substring_1235207) | [Solution](https://github.com/asksaurabh/Algorithms/blob/main/2.dp/12.longest_common_substring.cpp)
 4. [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Solution](https://leetcode.com/problems/maximum-length-of-repeated-subarray/discuss/1830389/C%2B%2B-or-All-possible-Solutions)
 5. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Solution](https://leetcode.com/problems/longest-palindromic-subsequence/discuss/1830520/C%2B%2B-or-All-possible-Solutions)
