@@ -115,6 +115,7 @@
 15. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Solution](https://leetcode.com/problems/wildcard-matching/discuss/1852783/C%2B%2B-or-All-possible-Solutions)
 16. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](https://leetcode.com/problems/longest-palindromic-substring/discuss/1860947/C%2B%2B-or-All-possible-Solutions)
 17. [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [Solution](https://leetcode.com/problems/interleaving-string/discuss/1951687/C%2B%2B-or-Solution)
+18. [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
 
 ## EXTRAS
 1. [Maximize Number of Subsequences in a String](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/)
