@@ -150,12 +150,12 @@
 
 ## DP on Stocks(5)
 
-1. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/1757585/C%2B%2B-or-All-possible-Solutions)
+1. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/1757585/C%2B%2B-or-All-possible-Solutions) | (1 tranc)
 2. [Best Time to Buy and Sell Stock II (Infinite Tranc with no overlapping Transc.)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/discuss/1854165/C%2B%2B-or-All-possible-Solutions)
 3. [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/discuss/1854475/C%2B%2B-or-All-possible-Solutions)
 4. [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/1873918/C%2B%2B-or-All-possible-Solutions)
-5. [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/discuss/1874294/C%2B%2B-or-All-possible-Solutions)
-6. [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/discuss/1882770/C%2B%2B-or-Solutions)
+5. [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/discuss/1874294/C%2B%2B-or-All-possible-Solutions) | (k tranc)
+6. [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/discuss/1882770/C%2B%2B-or-Solutions) | (2 tranc)
 
 ## DP on LIS Patterns(6)
 
