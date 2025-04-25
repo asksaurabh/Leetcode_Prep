@@ -163,7 +163,7 @@
 2. [Print Longest Increasing Subsequence](https://www.geeksforgeeks.org/problems/printing-longest-increasing-subsequence/1) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/6_2_print_lis.cpp)
 3. [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [Solution](https://leetcode.com/problems/largest-divisible-subset/discuss/1936676/C%2B%2B-or-LIS-Variation)
 4. [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [Solution](https://leetcode.com/problems/longest-string-chain/discuss/1939193/C%2B%2B-or-Concept-of-LIS)
-5. [Longest Bitonic Sequence](https://www.codingninjas.com/codestudio/problems/longest-bitonic-sequence_1062688) | [Solution](#)
+5. [Longest Bitonic Sequence](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1) | [Solution](#)
 6. [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | [Solution](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/discuss/1939475/C%2B%2B-or-Solution)
 7. [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [Solution](https://leetcode.com/problems/number-of-longest-increasing-subsequence/discuss/1940542/C%2B%2B-or-Solution)
 8. [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | [Solution](https://leetcode.com/problems/russian-doll-envelopes/discuss/1942829/C%2B%2B-or-Solution)
