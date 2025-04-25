@@ -160,7 +160,7 @@
 ## DP on LIS Patterns(6)
 
 1. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](https://leetcode.com/problems/longest-increasing-subsequence/discuss/1920472/C%2B%2B-or-All-possible-Solutions)
-2. [Print Longest Increasing Subsequence](#) | [Solution](#)
+2. [Print Longest Increasing Subsequence](https://www.geeksforgeeks.org/problems/printing-longest-increasing-subsequence/1) | [Solution](https://github.com/asksaurabh/Leetcode_Prep/blob/main/02_Dynamic_programm/6_2_print_lis.cpp)
 3. [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [Solution](https://leetcode.com/problems/largest-divisible-subset/discuss/1936676/C%2B%2B-or-LIS-Variation)
 4. [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [Solution](https://leetcode.com/problems/longest-string-chain/discuss/1939193/C%2B%2B-or-Concept-of-LIS)
 5. [Longest Bitonic Sequence](https://www.codingninjas.com/codestudio/problems/longest-bitonic-sequence_1062688) | [Solution](#)
